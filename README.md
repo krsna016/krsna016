@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **My Own Projects**
 
-- 🌱 I’m currently learning **Fundamentals Of Data Science**
+- 🌱 I’m currently learning **'Fundamentals Of Data Science'**
 
-- 💬 Ask me about **C++, C, Python**
+- 💬 Ask me about : **C++, C, Python**
 
-- 📫 How to reach me **anurag020416@gmail.com**
+- 📫 How to reach me : **anurag020416@gmail.com**
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact : **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@krsna_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krsna_016" height="30" width="40" /></a>
+<a href="https://twitter.com/@krsna_016" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/twitter.png" alt="@krsna_016" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/krsna_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krsna_016" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/krsna_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krsna_016" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krsna_016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krsna_016" height="30" width="40" /></a>
