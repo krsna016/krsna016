@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="krsna016" /></a> /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/016anuragpareek" target="blank"><img src="" alt="@016anuragpareek" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/016anuragpareek" target="blank"><img src="path/to/linkedin_icon.png" alt="@016anuragpareek" /></a> </p>
 
 - 🔭 I’m currently working on **My Own Projects**
 
