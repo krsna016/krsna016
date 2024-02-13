@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="krsna016" /></a></p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/016anuragpareek" target="blank"><img src="https://cdn5.vectorstock.com/i/thumb-large/99/09/linkedin-social-media-icon-design-template-vector-22339909.jpg" alt="@016anuragpareek" width="30" height="30" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/016anuragpareek" target="blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="@016anuragpareek" width="30" height="30" /></a> </p>
 
 - 🔭 I’m currently working on **My Own Projects**
 
