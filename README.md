@@ -16,7 +16,7 @@
 </p>
 
   <p align="center">
-  <img align="center" alt="coding" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ## Greetings, Fellow Code Explorer! 🚀
@@ -39,7 +39,7 @@
 - ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://leetcode.com/krsna_016/)
 
 <p align="center">
-  <img align="right" alt="coding" width="420" src="https://d2w9rnfcy7mm78.cloudfront.net/3244045/original_921b3032ab2e66602d432603d79b0197.gif?1545400477?bc=1">
+  <img align="center" alt="coding" width="420" src="https://d2w9rnfcy7mm78.cloudfront.net/3244045/original_921b3032ab2e66602d432603d79b0197.gif?1545400477?bc=1">
 </p>
 
 ## Masterful Code Instruments:
