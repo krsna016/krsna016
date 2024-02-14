@@ -1,8 +1,4 @@
 <!-- Add an awesome header -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%9F-Welcome%20to%20My%20GitHub%20Playground!-%230a0a0a" alt="Welcome to My GitHub Playground"/>
-</p>
-
 <!-- Add a cool coding gif -->
 <p align="center">
   <img align="right" alt="coding" width="430" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
