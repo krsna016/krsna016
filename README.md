@@ -21,7 +21,7 @@
 
 <h2 align="center"> Greetings, Fellow Code Explorer! 🚀</h2>
 
-Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
+<h3 align="center"> Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟</h3>
 
 ## About Me:
 - 🔭 Crafting the **Grand Symphony of Code Elegance**
