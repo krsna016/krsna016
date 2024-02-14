@@ -18,7 +18,7 @@
 ## Greetings, Fellow Code Explorer! 🚀
 
   <p align="center">
-  <img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
