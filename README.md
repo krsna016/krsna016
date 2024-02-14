@@ -16,7 +16,12 @@
 
 ## Greetings, Fellow Code Explorer! 🚀
 
-Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
+#### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
+
+
+  <p align="center">
+  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ## About Me:
 - 🔭 Crafting the **Grand Symphony of Code Elegance**
@@ -24,10 +29,6 @@ Hold on tight as we embark on a thrilling adventure into the enchanting realms o
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
 - 📫 Let's connect: **anurag020416@gmail.com**
 - ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
-
-  <p align="center">
-  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
 
 ## Unveiling Code Wonders:
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
