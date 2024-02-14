@@ -8,17 +8,17 @@
   <img align="right" alt="coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-## 🚀 Welcome to My Epic Coding Odyssey!
+# 🚀 Welcome to My Epic Coding Odyssey!
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Greetings, Fellow Developer Explorer! 🚀
+## Greetings, Fellow Developer Explorer! 🚀
 
 Buckle up for a journey filled with code, curiosity, and caffeine-fueled creativity! 🌟
 
-#### About Me:
+### About Me:
 - 🔭 Currently crafting **My Masterpiece Projects**
 - 🌱 Learning the **Quantum Leaps of Data Science**
 - 💬 Passionate about: **C++, C, Python** - my secret codes to the universe!
