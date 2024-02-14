@@ -19,7 +19,7 @@
   <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-<h2 align="center"> Greetings, Fellow Code Explorer! 🚀</h2>
+## Greetings, Fellow Code Explorer! 🚀
 
 - Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
@@ -28,9 +28,9 @@
 - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
 - 📫 Let's connect: **anurag020416@gmail.com**
-- ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**algorithmic symphony! ✨"</h3>
+- ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**algorithmic symphony! ✨"
 
-<h2 align="center"> Unveiling Code Wonders:</h2>
+## Unveiling Code Wonders:
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
 
 
