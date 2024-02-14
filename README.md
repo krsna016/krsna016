@@ -16,7 +16,7 @@
 </p>
 
   <p align="center">
-  <img align="right" alt="coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ## Greetings, Fellow Code Explorer! 🚀
@@ -24,11 +24,11 @@
 ### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
 ## About Me:
-### - 🔭 Crafting the **Grand Symphony of Code Elegance**
-### - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
-### - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
-### - 📫 Let's connect: **anurag020416@gmail.com**
-### - ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
+- 🔭 Crafting the **Grand Symphony of Code Elegance**
+- 🌱 Exploring the **Uncharted Territories of Data Sorcery**
+- 💬 Deep dives into: **C++, C, Python** - where the magic happens!
+- 📫 Let's connect: **anurag020416@gmail.com**
+- ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
 
 ## Unveiling Code Wonders:
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
