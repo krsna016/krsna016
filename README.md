@@ -17,11 +17,11 @@
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Greetings, Fellow Code Explorer! 🚀
+## Greetings, Fellow Code Explorer! 🚀
 
 Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
-#### About Me:
+## About Me:
 - 🔭 Crafting the **Grand Symphony of Code Elegance**
 - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
