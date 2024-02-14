@@ -31,12 +31,12 @@ Hold on tight as we embark on a thrilling adventure into the enchanting realms o
 - ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
 
 ## Unveiling Code Wonders:
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
+- ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
 
 ## Prepare for Coding Marvels:
-- Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/krsna_016)
-- HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/krsna_016)
-- LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://www.leetcode.com/krsna_016)
+- ### Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/krsna_016)
+- ### HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/krsna_016)
+- ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://www.leetcode.com/krsna_016)
 
 ## Masterful Code Instruments:
 - ### C: ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
