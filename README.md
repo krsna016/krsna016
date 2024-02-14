@@ -4,12 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="" /></a></p>
 
-<div class="social-link">
-  <a href="https://www.linkedin.com/in/016anuragpareek" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=" @016anuragpareek " width="15" height="15">
-  </a>
-  <span> @016anuragpareek </span>
-</div>
+<p align="left"> <a href="https://www.linkedin.com/in/016anuragpareek" target="blank"><img src="" alt="@016anuragpareek" /></a> @016anuragapareek </p>
 
 
 
