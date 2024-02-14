@@ -10,6 +10,9 @@
 
 <h1 align="center"> Step into the Realm of Code Euphoria, where every keystroke creates a symphony of possibilities!</h1>
 
+&nbsp; <!-- This is a non-breaking space character for a small gap -->
+&nbsp; <!-- This is a non-breaking space character for a small gap -->
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
