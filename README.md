@@ -31,7 +31,8 @@
 <h3 align="left"> 🟢  ⚡  Fun Fact: In this digital realm, we're weaving a mystical tapestry of code spells, where every 0 and 1 adds a touch of magic to the algorithmic symphony! ✨"</h3>
 
 ## Unveiling Code Wonders:
-- ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)(https://www.linkedin.com/in/016anuragpareek)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
+
 
 ## Prepare for Coding Marvels:
 - ### Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/19687441/016anuragpareek)
