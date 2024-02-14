@@ -5,11 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="" /></a></p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/016anuragpareek" target="blank">
+  <a href="https://www.linkedin.com/in/016anuragpareek" target="blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="@016anuragpareek" width="15" height="15" style="vertical-align: middle;" />
+    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px;">@016anuragpareek</span>
   </a>
-  <span style="vertical-align: middle; margin-left: 20px; font-size: 15px;">@016anuragpareek</span>
 </p>
+
 
 
 - 🔭 I’m currently working on **My Own Projects**
