@@ -39,9 +39,9 @@ Hold on tight as we embark on a thrilling adventure into the enchanting realms o
 - LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://www.leetcode.com/krsna_016)
 
 ## Masterful Code Instruments:
-- C: ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
-- Java: ![Java](https://img.shields.io/badge/Java-%230a0a0a?logo=java&style=flat-square)
-- Python: ![Python](https://img.shields.io/badge/Python-%230a0a0a?logo=python&style=flat-square)
+- ### C: ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
+- ### Java: ![Java](https://img.shields.io/badge/Java-%230a0a0a?logo=java&style=flat-square)
+- ### Python: ![Python](https://img.shields.io/badge/Python-%230a0a0a?logo=python&style=flat-square)
 
 ## GitHub Odyssey:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF)
@@ -52,29 +52,3 @@ Hold on tight as we embark on a thrilling adventure into the enchanting realms o
 ### Embark with me on this magnificent odyssey through the code cosmos! 
 ### 🌌 Brace yourself for jaw-dropping code spectacles, enchanting algorithms, and awe-inspiring programming feats!
 ### Let's create, innovate, and conquer the coding universe together! 🚀✨
-
-<!-- Add a container for the falling binary 0s and 1s -->
-<div style="position: relative; height: 200px; overflow: hidden; background-color: black;">
-  <!-- Add styles for the falling binary text -->
-  <style>
-    .falling-binary {
-      position: absolute;
-      color: lime;  /* Change the color if needed */
-      font-size: 20px;
-      animation: fall 1s linear infinite;
-    }
-
-    @keyframes fall {
-      to {
-        transform: translateY(100%);
-      }
-    }
-  </style>
-
-  <!-- Add falling binary 0s and 1s -->
-  <span class="falling-binary">0</span>
-  <span class="falling-binary">1</span>
-  <span class="falling-binary">0</span>
-  <!-- Add more binary digits as needed -->
-</div>
-
