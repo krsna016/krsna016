@@ -7,10 +7,6 @@
 </p>
 
 <!-- Add an awe-inspiring coding gif -->
-<p align="center">
-  <img align="right" alt="coding" width="400" src="https://d2w9rnfcy7mm78.cloudfront.net/3244045/original_921b3032ab2e66602d432603d79b0197.gif?1545400477?bc=1">
-</p>
-
 
 <h1 align="center"> Step into the Realm of Code Euphoria, where every keystroke creates a symphony of possibilities!</h1>
 
@@ -40,6 +36,10 @@ Hold on tight as we embark on a thrilling adventure into the enchanting realms o
 - ### Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/krsna_016)
 - ### HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/krsna_016)
 - ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://www.leetcode.com/krsna_016)
+
+<p align="center">
+  <img align="right" alt="coding" width="400" src="https://d2w9rnfcy7mm78.cloudfront.net/3244045/original_921b3032ab2e66602d432603d79b0197.gif?1545400477?bc=1">
+</p>
 
 ## Masterful Code Instruments:
 - ### C: ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
