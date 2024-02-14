@@ -10,24 +10,19 @@
 
 <h1 align="center"> Step into the Realm of Code Euphoria, where every keystroke creates a symphony of possibilities!</h1>
 
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+  <p align="center">
+  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ## Greetings, Fellow Code Explorer! 🚀
 
 #### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
-
-  <p align="center">
-  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
-
 ## About Me:
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
 - 🔭 Crafting the **Grand Symphony of Code Elegance**
 - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
@@ -35,11 +30,9 @@
 - ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
 
 ## Unveiling Code Wonders:
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
 
 ## Prepare for Coding Marvels:
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
 - ### Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/krsna_016)
 - ### HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/krsna_016)
 - ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://www.leetcode.com/krsna_016)
@@ -49,13 +42,11 @@
 </p>
 
 ## Masterful Code Instruments:
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
 - ### C: ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
 - ### Java: ![Java](https://img.shields.io/badge/Java-%230a0a0a?logo=java&style=flat-square)
 - ### Python: ![Python](https://img.shields.io/badge/Python-%230a0a0a?logo=python&style=flat-square)
 
 ## GitHub Odyssey:
-&nbsp; <!-- This is a non-breaking space character for a small gap -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&locale=en&bg_color=0a0a0a&text_color=FFFFFF)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00)
