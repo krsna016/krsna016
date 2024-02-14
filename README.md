@@ -34,7 +34,7 @@
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
 
 ## Prepare for Coding Marvels:
-- ### Stack Overflow: [![Stack Overflow](https://stackoverflow.com/users/19687441/016anuragpareek)](https://stackoverflow.com/users/krsna_016)
+- ### Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/krsna_016)
 - ### HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/krsna_016)
 - ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://www.leetcode.com/krsna_016)
 
