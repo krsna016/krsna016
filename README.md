@@ -1,8 +1,6 @@
 <!-- Add a personalized welcome message -->
 
-<h1 align="center"><font color="yellow">🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</font></h1>
-
-
+<h1 align="center">🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</h1>
 
 <!-- Add a breathtaking and surprising header -->
 <p align="center">
