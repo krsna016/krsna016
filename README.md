@@ -19,7 +19,7 @@
   <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-## Greetings, Fellow Code Explorer! 🚀
+<h2 align="center"> Greetings, Fellow Code Explorer! 🚀</h2>
 
 Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
