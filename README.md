@@ -8,7 +8,7 @@
 
 <!-- Add an awe-inspiring coding gif -->
 <p align="center">
-  <img align="right" alt="coding" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ## 🚀 Welcome to the Grand Extravaganza of Code Marvels!
