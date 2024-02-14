@@ -23,7 +23,7 @@ Hold on tight as we embark on a thrilling adventure into the enchanting realms o
   <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-## About Me:
+#### <span style="color: yellow;">About Me:</span>
 - 🔭 Crafting the **Grand Symphony of Code Elegance**
 - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
