@@ -18,7 +18,7 @@
 ## Greetings, Fellow Code Explorer! 🚀
 
   <p align="center">
-  <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="coding" width="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
@@ -28,7 +28,7 @@
 - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
 - 📫 Let's connect: **anurag020416@gmail.com**
-- ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
+- ⚡  Fun Fact: **In this digital realm, we're weaving a mystical tapestry of code spells, where every 0 and 1 adds a touch of magic to the algorithmic symphony! ✨**"
 
 ## Unveiling Code Wonders:
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
@@ -39,7 +39,7 @@
 - ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://leetcode.com/krsna_016/)
 
 <p align="center">
-  <img align="right" alt="coding" width="380" src="https://d2w9rnfcy7mm78.cloudfront.net/3244045/original_921b3032ab2e66602d432603d79b0197.gif?1545400477?bc=1">
+  <img align="right" alt="coding" width="420" src="https://d2w9rnfcy7mm78.cloudfront.net/3244045/original_921b3032ab2e66602d432603d79b0197.gif?1545400477?bc=1">
 </p>
 
 ## Masterful Code Instruments:
