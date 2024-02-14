@@ -11,7 +11,7 @@
 
 <h1 align="center"> Step into the Realm of Code Euphoria, where every keystroke creates a symphony of possibilities!</h1>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
