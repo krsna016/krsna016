@@ -1,5 +1,5 @@
 <!-- Add a personalized welcome message -->
-<h1 align="center">🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</h1>
+<h0 align="center">🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</h0>
 
 <!-- Add a breathtaking and surprising header -->
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
-## __About Me:_
+## About Me:
 ### - 🔭 Crafting the **Grand Symphony of Code Elegance**
 ### - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 ### - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
