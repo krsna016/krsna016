@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/016anuragpareek" target="blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="@016anuragpareek" width="15" height="15" style="vertical-align: middle;" />
-    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px;">@016anuragpareek</span>
+    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px;"><h2 @016anuragpareek</h2></span>
   </a>
 </p>
 
