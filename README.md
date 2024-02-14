@@ -20,14 +20,15 @@
 
 ## Greetings, Fellow Code Explorer! 🚀
 
-Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
+#### Hold on tight as we embark on a thrilling adventure into the enchanting realms 
+#### of code and creativity! 🌟
 
 ## About Me:
-- 🔭 Crafting the **Grand Symphony of Code Elegance**
-- 🌱 Exploring the **Uncharted Territories of Data Sorcery**
-- 💬 Deep dives into: **C++, C, Python** - where the magic happens!
-- 📫 Let's connect: **anurag020416@gmail.com**
-- ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
+#### - 🔭 Crafting the **Grand Symphony of Code Elegance**
+#### - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
+#### - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
+#### - 📫 Let's connect: **anurag020416@gmail.com**
+#### - ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells! ✨**
 
 ## Unveiling Code Wonders:
 - ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
