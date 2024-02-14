@@ -7,21 +7,20 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/016anuragpareek" target="blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="@016anuragpareek" width="15" height="15" style="vertical-align: middle;" />
-    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px;"><h2 @016anuragpareek</h2></span>
+    <span style="vertical-align: middle; margin-left: 3px; font-size: 15px;">@016anuragpareek</span>
   </a>
 </p>
 
 
+-> 🔭 I’m currently working on **My Own Projects**
 
-- 🔭 I’m currently working on **My Own Projects**
+-> 🌱 I’m currently learning **'Fundamentals Of Data Science'**
 
-- 🌱 I’m currently learning **'Fundamentals Of Data Science'**
+-> 💬 Ask me about : **C++, C, Python**
 
-- 💬 Ask me about : **C++, C, Python**
+-> 📫 How to reach me : **anurag020416@gmail.com**
 
-- 📫 How to reach me : **anurag020416@gmail.com**
-
-- ⚡ Fun fact : **It’s all 0’s and 1’s**
+-> ⚡ Fun fact : **It’s all 0’s and 1’s**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
