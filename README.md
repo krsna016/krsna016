@@ -20,8 +20,8 @@
 
 ## Greetings, Fellow Code Explorer! 🚀
 
-#### Hold on tight as we embark on a thrilling adventure into the enchanting realms 
-#### of code and creativity! 🌟
+### Hold on tight as we embark on a thrilling adventure into the enchanting realms 
+### of code and creativity! 🌟
 
 ## About Me:
 ### - 🔭 Crafting the **Grand Symphony of Code Elegance**
