@@ -15,11 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+## Greetings, Fellow Code Explorer! 🚀
+
   <p align="center">
   <img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
-
-## Greetings, Fellow Code Explorer! 🚀
 
 ### Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
