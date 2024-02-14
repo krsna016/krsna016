@@ -24,7 +24,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://stackoverflow.com/users/krsna_016" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="krsna_016" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/krsna_016" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="krsna_016" height="35" width="35" /></a>
 <a href="https://www.hackerrank.com/krsna_016" target="blank"><img align="center" src="https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krsna_016" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="krsna_016" height="30" width="40" /></a>
 </p>
