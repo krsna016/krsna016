@@ -24,11 +24,11 @@
 <h3 align="center"> Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟</h3>
 
 <h2 align="center"> About Me:</h2>
-<h3 align="center"> 🔭 Crafting the Grand Symphony of Code Elegance</h3>
-<h3 align="center"> 🌱 Exploring the Uncharted Territories of Data Sorcery</h3>
-<h3 align="center"> 💬 Deep dives into: C++, C, Python - where the magic happens!</h3>
-<h3 align="center"> 📫 Let's connect: anurag020416@gmail.com</h3>
-<h3 align="center"> ⚡  Fun Fact: In this digital realm, we're weaving a mystical tapestry of code spells, where every 0 and 1 adds a touch of magic to the algorithmic symphony! ✨"</h3>
+<h3 align="left"> - 🔭 Crafting the Grand Symphony of Code Elegance</h3>
+<h3 align="left"> - 🌱 Exploring the Uncharted Territories of Data Sorcery</h3>
+<h3 align="left"> - 💬 Deep dives into: C++, C, Python - where the magic happens!</h3>
+<h3 align="left"> - 📫 Let's connect: anurag020416@gmail.com</h3>
+<h3 align="left"> - ⚡  Fun Fact: In this digital realm, we're weaving a mystical tapestry of code spells, where every 0 and 1 adds a touch of magic to the algorithmic symphony! ✨"</h3>
 
 <h2 align="center">Unveiling Code Wonders:</h2>
 <h3 align="center"> LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)</h3>
