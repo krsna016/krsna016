@@ -1,5 +1,5 @@
 <!-- Add a personalized welcome message -->
-<h1 align="center" style="color: yellow;>🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</h1>
+<h1 align="center" style="color: yellow";>🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</h1>
 
 <!-- Add a breathtaking and surprising header -->
 <p align="center">
