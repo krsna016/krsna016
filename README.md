@@ -23,7 +23,7 @@
 
 - Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
 
-<h2 align="center"> About Me:</h2>
+## About Me:
 - 🔭 Crafting the **Grand Symphony of Code Elegance**
 - 🌱 Exploring the **Uncharted Territories of Data Sorcery**
 - 💬 Deep dives into: **C++, C, Python** - where the magic happens!
