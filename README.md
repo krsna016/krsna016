@@ -16,7 +16,7 @@
 </p>
 
   <p align="center">
-  <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="center" alt="coding" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 ## Greetings, Fellow Code Explorer! 🚀
@@ -49,9 +49,9 @@
 
 <br>
 <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF">
-<br><br>
+<br>
 <img width="600" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&locale=en&bg_color=0a0a0a&text_color=FFFFFF">
-<br><br>
+<br>
 <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00">
 
 ## The Grand Finale:
