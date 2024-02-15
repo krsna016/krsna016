@@ -44,14 +44,15 @@
 - ### Java: ![Java](https://img.shields.io/badge/Java-%230a0a0a?logo=java&style=flat-square)
 - ### Python: ![Python](https://img.shields.io/badge/Python-%230a0a0a?logo=python&style=flat-square)
 
-## GitHub Odyssey:
-<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF)
+## GitHub Odyssey:
+
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&locale=en&bg_color=0a0a0a&text_color=FFFFFF)
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00)
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF">
+<br><br>
+<img width="600" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&locale=en&bg_color=0a0a0a&text_color=FFFFFF">
+<br><br>
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00">
 
 ## The Grand Finale:
 Embark with me on this magnificent odyssey through the code cosmos! 🌌 Brace yourself for jaw-dropping code spectacles, enchanting algorithms, and awe-inspiring programming feats! Let's create, innovate, and conquer the coding universe together! 🚀✨
