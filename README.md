@@ -7,12 +7,6 @@
   />
 </h1>
 
-
-<!-- Status Tag -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Real-World%20Products-%230a0a0a" />
-</p>
-
 <!-- Cool Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation">
