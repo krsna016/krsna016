@@ -72,17 +72,15 @@ I specialize in:
 
 🌟 **BOOSTONIX Website (Full React)**  
 > A digital agency frontend with animated services, blog engine, and WhatsApp integration.  
-[Live Preview](https://boostonix.vercel.app)
+[Live Preview](https://boostonix.agency)
 
 🌟 **Titanic ML Project (Full Kaggle Workflow)**  
 > From cleaning to EDA to model tuning with full explainability for every line.  
-[Notebook (Coming Soon)]
 
 🌟 **Gmail Follow-up Automation**  
 > Sends threaded, dynamic follow-ups using Gmail API and Google Sheets.  
-[Private Client Deployment]
 
-🔧 (More projects in my pinned repos 🔽)
+🔧 More projects in my pinned repos 🔽
 
 ---
 
