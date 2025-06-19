@@ -1,58 +1,78 @@
-<!-- Add a personalized welcome message -->
+<!-- Professional Welcome Header -->
+<h1 align="center">🚀 Welcome! I'm Anurag — Architect of Code & Creativity 🌌</h1>
 
-<h1 align="center">🚀 Anurag Here, Welcome to My Code Wonderland! 🌟</h1>
-
-<!-- Add a breathtaking and surprising header -->
+<!-- Engaging Subheading -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🌈-Prepare%20for%20Epic%20Code%20Surprises!-%230a0a0a" alt="Prepare for Epic Code Surprises!"/>
+  <img src="https://img.shields.io/badge/🌟-Turning Ideas into Scalable Code-%230a0a0a" alt="Creative Code Architect"/>
 </p>
 
-<!-- Add an awe-inspiring coding gif -->
+<!-- Eye-catching Code GIF -->
+<p align="center">
+  <img align="center" alt="Coding in Action" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
-<h1 align="center"> Step into the Realm of Code Euphoria, where every keystroke creates a symphony of possibilities!</h1>
-
+<!-- Profile Views -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-  <p align="center">
-  <img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MjEwZWYwN2UyOWJkZmYyYzU2OWE4MDZlODAyY2NhNDNmMTA3MSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+---
+
+## 🌟 Hello, Visitor!
+
+Welcome to my coding sanctuary — where creativity meets clean architecture, and every line of code tells a story.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building intelligent solutions with **Data Science, AI, and Scalable Systems**
+- 🧠 Languages I think in: **C, C++, Python, Java**
+- 🌱 Lifelong learner, focused on **real-world problem solving** and **clean code design**
+- 📬 Reach me anytime at: **anurag020416@gmail.com**
+- 💡 Personal Ethos: *"Build what lasts, refine what works, automate the rest."*
+
+---
+
+## 🔗 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/19687441/016anuragpareek)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/profile/Anurag_16)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://leetcode.com/krsna_016/)
+
+---
+
+## 🛠️ Core Tools & Languages
+
+- ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
+- ![Java](https://img.shields.io/badge/Java-%230a0a0a?logo=java&style=flat-square)
+- ![Python](https://img.shields.io/badge/Python-%230a0a0a?logo=python&style=flat-square)
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF">
+</p>
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&locale=en&bg_color=0a0a0a&text_color=FFFFFF">
+</p>
+<p align="center">
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00">
 </p>
 
-## Greetings, Fellow Code Explorer! 🚀
+---
 
-- Hold on tight as we embark on a thrilling adventure into the enchanting realms of code and creativity! 🌟
+## 🎯 Final Thoughts
 
-## About Me:
-- 🔭 Crafting the **Grand Symphony of Code Elegance**
-- 🌱 Exploring the **Uncharted Territories of Data Sorcery**
-- 💬 Deep dives into: **C++, C, Python** - where the magic happens!
-- 📫 Let's connect: **anurag020416@gmail.com**
-- ⚡ Fun revelation: **In this binary world, we're creating a magical tapestry of code spells!**
+You're now in the zone where code meets clarity and ambition powers action.  
+Whether you're here for collaboration, curiosity, or creativity — let's **innovate, iterate, and inspire** together.  
+**Welcome to my GitHub Wonderland.**
 
-## Unveiling Code Wonders:
-- ### LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40016anuragpareek-%230a0a0a?logo=linkedin&style=social)](https://www.linkedin.com/in/016anuragpareek)
+> _“The future belongs to those who build it. Let’s code the extraordinary.”_
 
+---
 
-## Prepare for Coding Marvels:
-- ### Stack Overflow: [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-krsna__016-%230a0a0a?logo=stackoverflow&style=social)](https://stackoverflow.com/users/19687441/016anuragpareek)
-- ### HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-krsna__016-%230a0a0a?logo=hackerrank&style=social)](https://www.hackerrank.com/profile/Anurag_16)
-- ### LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-krsna__016-%230a0a0a?logo=leetcode&style=social)](https://leetcode.com/krsna_016/)
-
-## Masterful Code Instruments:
-- ### C: ![C](https://img.shields.io/badge/C-%230a0a0a?logo=c&style=flat-square)
-- ### Java: ![Java](https://img.shields.io/badge/Java-%230a0a0a?logo=java&style=flat-square)
-- ### Python: ![Python](https://img.shields.io/badge/Python-%230a0a0a?logo=python&style=flat-square)
-
-
-## GitHub Odyssey:
-
-<br>
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=krsna016&show_icons=true&locale=en&layout=compact&bg_color=0a0a0a&text_color=FFFFFF">
-<br>
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&locale=en&bg_color=0a0a0a&text_color=FFFFFF">
-<br>
-<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00">
-
-## The Grand Finale:
-Embark with me on this magnificent odyssey through the code cosmos! 🌌 Brace yourself for jaw-dropping code spectacles, enchanting algorithms, and awe-inspiring programming feats! Let's create, innovate, and conquer the coding universe together! 🚀✨
+Would you like me to add **badges for technologies**, a **quote banner**, or **GitHub activity graph** next?
