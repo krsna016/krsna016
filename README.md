@@ -1,7 +1,12 @@
 <!-- Animated Intro Header -->
+<!-- ✨ Animated Typing Intro – Clean, Wide & Readable -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&size=28&duration=5000&lines=Hi+There!+I'm+Anurag+%F0%9F%9A%80;Welcome+to+My+Code+Wonderland!+%F0%9F%8C%9F;Full-stack+Thinker+%7C+Problem+Solver+%7C+Tech+Visionary" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Pareek.;Code+Architect+%7C+Data+Explorer+%7C+Tech+Visionary.;Welcome+to+my+Coding+Wonderland!+%F0%9F%8C%9F"
+    alt="Typing SVG"
+  />
 </h1>
+
 
 <!-- Status Tag -->
 <p align="center">
