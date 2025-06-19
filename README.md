@@ -1,43 +1,59 @@
-<!-- Animated Intro Header -->
-<!-- ✨ Animated Typing Intro – Clean, Wide & Readable -->
+<!-- 🎬 Cinematic Typing Banner -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Pareek.;Code+Architect+%7C+Data+Explorer+%7C+Tech+Visionary.;Welcome+to+my+Coding+Wonderland!+%F0%9F%8C%9F"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=F7F7F7&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek+%F0%9F%9A%80;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+robust+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Spiritual+Thinker.;Welcome+to+my+Coding+Universe+%E2%9C%A8;Let%E2%80%99s+build+impact+with+code+that+lasts."
+    alt="Epic Typing Banner"
   />
 </h1>
 
-<!-- Cool Coding GIF -->
+<!-- 🧠 Value Pillars -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation">
+  <img src="https://img.shields.io/badge/Mindset-Builders%20Not%20Tinkerers-%230a0a0a" />
+  <img src="https://img.shields.io/badge/Vision-Code%20That%20Solves%2C%20Not%20Just%20Runs-%230a0a0a" />
+  <img src="https://img.shields.io/badge/Mission-Tech%20That%20Elevates%20Lives-%230a0a0a" />
 </p>
 
-<!-- Profile Views -->
+<!-- 👨‍🚀 Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Hero Coding GIF">
+</p>
+
+<!-- 📈 Profile Views -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 Who Am I?
 
-- 🔭 I’m currently building intelligent systems with **Data Science, ML & Scalable Backends**
-- 🌱 Always learning: **DSA, System Design, and Clean Code Architecture**
-- 💬 I speak in: **Python**, **C++**, **Java** — and sometimes in design patterns 😄
-- ✨ Mission: Craft legacy-grade tech solutions, not just side projects
-- 📫 Let’s Connect → **anurag020416@gmail.com**
+Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.
+
+💡 I'm on a mission to craft:
+- 🚀 Real-world AI tools that solve real-world chaos  
+- 🧠 Clean, scalable, reliable backends  
+- 🔐 Tech that feels human, looks beautiful, and runs like a rocket  
+
+💬 You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🛠️ Tech Stack Mastery
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,html,css,firebase,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,firebase,mysql,git,github,linux,vscode" />
 </p>
+
+I specialize in:
+- Backend Systems (Firebase, Node.js, APIs, Auth, Firestore)  
+- Frontend Crafting (React, Tailwind, Framer Motion)  
+- Clean Code & Git Discipline  
+- Python + Pandas + ML Workflows  
+- Building AI Features inside Apps (Gemini, OpenAI, Custom Prompts)
 
 ---
 
-## 🌐 Social Presence
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/016anuragpareek"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -45,6 +61,28 @@
   <a href="https://stackoverflow.com/users/19687441/016anuragpareek"><img src="https://img.shields.io/badge/StackOverflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/Anurag_16"><img src="https://img.shields.io/badge/HackerRank-%2311B584?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
+
+---
+
+## 🧪 Project Highlights
+
+🌟 **Astrology App for Panditji**  
+> A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.  
+[Astrology App Repo](https://github.com/krsna016/astrology-app)
+
+🌟 **BOOSTONIX Website (Full React)**  
+> A digital agency frontend with animated services, blog engine, and WhatsApp integration.  
+[Live Preview](https://boostonix.vercel.app)
+
+🌟 **Titanic ML Project (Full Kaggle Workflow)**  
+> From cleaning to EDA to model tuning with full explainability for every line.  
+[Notebook (Coming Soon)]
+
+🌟 **Gmail Follow-up Automation**  
+> Sends threaded, dynamic follow-ups using Gmail API and Google Sheets.  
+[Private Client Deployment]
+
+🔧 (More projects in my pinned repos 🔽)
 
 ---
 
@@ -62,7 +100,7 @@
 
 ---
 
-## 📅 GitHub Contribution Graph
+## 🔁 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&color=ffffff&line=00ffe4&point=ffffff" />
@@ -70,34 +108,28 @@
 
 ---
 
-## 💬 Fun Fact
+## 🎯 Mantra I Live By
 
-> _“In a binary world, I write spells in code. Where others see problems, I see blueprints.”_ 💡
-
----
-
-## 🎯 What I Believe
-
-> _“Write code as if the next person to maintain it is a psychopathic serial killer who knows where you live.”_ – John F. Woods
+> _“Don’t ship garbage fast. Ship meaningful, optimized solutions slowly — and then scale them with elegance.”_
 
 ---
 
-## 🛠️ Current Focus
+## 📫 Ready to Collaborate?
 
-- Crafting a professional **Notes App (React + Firebase)**
-- Mastering end-to-end **ML projects using real Kaggle datasets**
-- Building a custom **Holy AI trained on the Bhagavad Gita & Shastras**
+I'm open to:
+- 📈 Startups that solve real problems  
+- 🧩 Freelance roles with technical depth  
+- 🧠 Knowledge-sharing communities  
+- 🤝 Building sacred tech with purpose and principles
+
+Let’s talk at → **anurag020416@gmail.com**
 
 ---
 
-### 🌟 Let's innovate together.
-If you’re building something impactful — I’d love to contribute, collaborate, or learn from your journey.
+## 🧠 Closing Line
 
----
+Thanks for scrolling this far 🙏  
+You're not just visiting a GitHub — you're entering a **tech mind at work**.
 
-Would you like me to:
-- Add **visitor location heatmap**?
-- Create **readme trophy wall**?
-- Embed **blog preview widgets or project sections**?
+Let’s build something **that matters** — together 🚀
 
-Your GitHub is your digital legacy — let’s make it unforgettable.
