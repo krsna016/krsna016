@@ -29,7 +29,10 @@
 
 ---
 
-## 🧬 Who Am I?
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="24" style="vertical-align: middle; margin-right: 8px;" />
+  Who Am I?
+</h2>
 
 Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.
 
