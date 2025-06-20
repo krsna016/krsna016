@@ -36,10 +36,10 @@
 
 Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.
 💡 I'm on a mission to craft:
-<h2>
+<p>
   <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
   Real-world AI tools that solve real-world chaos  
-</h2>
+</p>
 - 🧠 Clean, scalable, reliable backends  
 - 🔐 Tech that feels human, looks beautiful, and runs like a rocket  
 
