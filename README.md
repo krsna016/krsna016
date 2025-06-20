@@ -61,8 +61,10 @@ I specialize in:
 - Building AI Features inside Apps (Gemini, OpenAI, Custom Prompts)
 
 ---
-
-## 🔗 Connect With Me
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Connect With Me
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/016anuragpareek"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -73,8 +75,10 @@ I specialize in:
 
 ---
 
-## 🧪 Project Highlights
-
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Project Highlights
+</h2>
 🌟 **Astrology App for Panditji**  
 > A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.  
 [Astrology App Repo](https://github.com/krsna016/astrology-app)
