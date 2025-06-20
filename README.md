@@ -15,7 +15,7 @@
 
 <!-- 👨‍🚀 Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Hero Coding GIF">
+  <img src="https://drive.google.com/file/d/1L7ttKYXob18hp91G7Z8CFCkPEUPDSgGA/view?usp=sharing" width="420" alt="Hero Coding GIF">
 </p>
 
 <!-- 📈 Profile Views -->
