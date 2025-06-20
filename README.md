@@ -1,7 +1,7 @@
 <!-- 🎬 Cinematic Typing Banner -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=600&color=F7F7F7&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek+%F0%9F%9A%80;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe+%E2%9C%A8;Let%E2%80%99s+build+impact+with+code+that+lasts."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=600&color=01313f&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek+%F0%9F%9A%80;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe+%E2%9C%A8;Let%E2%80%99s+build+impact+with+code+that+lasts."
     alt="Epic Typing Banner"
   />
 </h1>
