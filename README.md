@@ -13,9 +13,13 @@
   <img src="https://img.shields.io/badge/Mission-Tech%20That%20Elevates%20Lives-%230a0a0a" />
 </p>
 
-<!-- 👨‍🚀 Hero GIF -->
+<!-- 👨‍🚀 Hero -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ZXDkUWNS3gImlQY8w_wSc5DlGVHNhfEt" width="420" alt="3D Dev Illustration">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1ZXDkUWNS3gImlQY8w_wSc5DlGVHNhfEt" 
+    style="max-width:400px; width:100%;" 
+    alt="Hero 3D Dev"
+  />
 </p>
 
 <!-- 📈 Profile Views -->
