@@ -79,9 +79,10 @@ I specialize in:
   <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
   Project Highlights
 </h2>
+
 🌟 **Astrology App for Panditji**  
 > A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.  
-[Astrology App Repo](https://github.com/krsna016/astrology-app)
+[Astrology App Repo](https://github.com/krsna016/c2-astrology-app-latest)
 
 🌟 **BOOSTONIX Website (Full React)**  
 > A digital agency frontend with animated services, blog engine, and WhatsApp integration.  
