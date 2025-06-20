@@ -44,8 +44,10 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 💬 You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️
 
 ---
-
-## 🛠️ Tech Stack Mastery
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Tech Stack Mastery
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift,googlecloud" />
