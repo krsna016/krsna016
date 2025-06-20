@@ -39,15 +39,15 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 💡 I'm on a mission to craft:
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Real-world AI tools that solve real-world chaos
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Clean, scalable, reliable backends
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Tech that feels human, looks beautiful, and runs like a rocket
 </p>
 
@@ -65,23 +65,23 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Backend Systems (Firebase, Node.js, APIs, Auth, Firestore)
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Frontend Crafting (React, Tailwind, Framer Motion)
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Clean Code & Git Discipline
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Python + Pandas + ML Workflows
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Building AI Features inside Apps (Gemini, OpenAI, Custom Prompts)
 </p>
 
@@ -107,34 +107,33 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 </h2>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Astrology App for Panditji</strong><br />
   A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.<br />
   <a href="https://github.com/krsna016/c2-astrology-app-latest">Astrology App Repo</a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   <strong>BOOSTONIX Website (Full React)</strong><br />
   A digital agency frontend with animated services, blog engine, and WhatsApp integration.<br />
   <a href="https://boostonix.agency">Live Preview</a>
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Titanic ML Project (Full Kaggle Workflow)</strong><br />
   From cleaning to EDA to model tuning with full explainability for every line.
 </p>
 
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Gmail Follow-up Automation</strong><br />
   Sends threaded, dynamic follow-ups using Gmail API and Google Sheets.
 </p>
 
 ---
 
-<!-- 📊 GitHub Stats -->
 <h2>
   <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
   GitHub Stats
@@ -177,21 +176,20 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
   Ready to Collaborate?
 </h2>
 
-I'm open to:
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Startups that solve real problems
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Freelance roles with technical depth
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Knowledge-sharing communities
 </p>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
   Building sacred tech with purpose and principles
 </p>
 
