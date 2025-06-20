@@ -2,7 +2,7 @@
 <h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=600&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek+%F0%9F%9A%80;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe+%E2%9C%A8;Let%E2%80%99s+build+impact+with+code+that+lasts."
-    alt="Epic Typing Banner"
+    alt="Typing Banner"
   />
 </h1>
 
@@ -30,66 +30,46 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Who Am I?
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Who Am I?</strong>
 </h2>
 
-Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.
+<p><em>Hello! I’m <strong>Anurag Pareek</strong> — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.</em></p>
 
-💡 I'm on a mission to craft:
+<p>💡 <strong>I'm on a mission to craft:</strong></p>
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Real-world AI tools that solve real-world chaos
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Clean, scalable, reliable backends
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Tech that feels human, looks beautiful, and runs like a rocket
-</p>
+<ul>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Real-world AI tools</strong> that solve real-world chaos</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Clean, scalable, reliable backends</strong></li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Tech that feels human</strong>, looks beautiful, and runs like a rocket</li>
+</ul>
 
-💬 You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️
+<p>💬 You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️</p>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Tech Stack Mastery
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Tech Stack Mastery</strong>
 </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift,googlecloud" />
 </p>
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Backend Systems (Firebase, Node.js, APIs, Auth, Firestore)
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Frontend Crafting (React, Tailwind, Framer Motion)
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Clean Code & Git Discipline
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Python + Pandas + ML Workflows
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Building AI Features inside Apps (Gemini, OpenAI, Custom Prompts)
-</p>
+<ul>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Backend: Firebase, Node.js, Firestore, Auth, APIs</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Frontend: React, Tailwind, Framer Motion</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Dev Discipline: Git, CI/CD, Clean Code</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Data Science: Python, Pandas, ML Workflows</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> AI Integration: Gemini, OpenAI, Prompt Engineering</li>
+</ul>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Connect With Me
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Connect With Me</strong>
 </h2>
 
 <p align="center">
@@ -102,41 +82,36 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Project Highlights
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Project Highlights</strong>
 </h2>
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Astrology App for Panditji</strong><br />
-  A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.<br />
-  <a href="https://github.com/krsna016/c2-astrology-app-latest">Astrology App Repo</a>
-</p>
-
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>BOOSTONIX Website (Full React)</strong><br />
-  A digital agency frontend with animated services, blog engine, and WhatsApp integration.<br />
-  <a href="https://boostonix.agency">Live Preview</a>
-</p>
-
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Titanic ML Project (Full Kaggle Workflow)</strong><br />
-  From cleaning to EDA to model tuning with full explainability for every line.
-</p>
-
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Gmail Follow-up Automation</strong><br />
-  Sends threaded, dynamic follow-ups using Gmail API and Google Sheets.
-</p>
+<ul>
+  <li>
+    <strong>📱 Astrology App for Panditji</strong><br/>
+    A Firebase-powered Android app with AI logic and bilingual UI.<br/>
+    🔗 <a href="https://github.com/krsna016/c2-astrology-app-latest">View Project</a>
+  </li>
+  <li>
+    <strong>⚡ BOOSTONIX Website</strong><br/>
+    Full React digital agency site with animations, blogs, WhatsApp.<br/>
+    🔗 <a href="https://boostonix.agency">Live Preview</a>
+  </li>
+  <li>
+    <strong>🚢 Titanic ML Kaggle Project</strong><br/>
+    End-to-end ML workflow with detailed explainability.
+  </li>
+  <li>
+    <strong>✉️ Gmail Follow-up Automation</strong><br/>
+    Dynamic, AI-ready follow-up system using Gmail API + Sheets.
+  </li>
+</ul>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  GitHub Stats
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>GitHub Stats</strong>
 </h2>
 
 <p align="center">
@@ -152,8 +127,8 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Contribution Graph
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Contribution Graph</strong>
 </h2>
 
 <p align="center">
@@ -163,46 +138,38 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Mantra I Live By
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Mantra I Live By</strong>
 </h2>
 
-> _“Don’t ship garbage fast. Ship meaningful, optimized solutions slowly — and then scale them with elegance.”_
+<blockquote><em>"Don’t ship garbage fast. Ship meaningful, optimized solutions slowly — and then scale them with elegance."</em></blockquote>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Ready to Collaborate?
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Ready to Collaborate?</strong>
 </h2>
 
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Startups that solve real problems
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Freelance roles with technical depth
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Knowledge-sharing communities
-</p>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
-  Building sacred tech with purpose and principles
-</p>
+<p>I'm open to:</p>
 
-📬 Let’s talk at → **anurag020416@gmail.com**
+<ul>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Startups solving real problems</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Freelance roles with technical depth</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Knowledge-sharing communities</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Sacred tech with purpose and principles</li>
+</ul>
+
+<p><strong>📬 Email me at:</strong> <code>anurag020416@gmail.com</code></p>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  Closing Line
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Closing Line</strong>
 </h2>
 
-Thanks for scrolling this far 🙏  
-You're not just visiting a GitHub — you're entering a **tech mind at work**.
+<p><em>Thanks for scrolling 🙏  
+You're not just visiting a GitHub — you're entering a <strong>tech mind at work</strong>.</em></p>
 
-Let’s build something **that matters** — together 🚀
+<p><strong>Let’s build something that matters — together 🚀</strong></p>
