@@ -30,26 +30,26 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Who Am I?</strong>
 </h2>
 
 <p><em>Hello! I’m <strong>Anurag Pareek</strong> — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.</em></p>
 
-<p>💡 <strong>I'm on a mission to craft:</strong></p>
+<p><strong>💡 I'm on a mission to craft:</strong></p>
 
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Real-world AI tools</strong> that solve real-world chaos</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Clean, scalable, reliable backends</strong></li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Tech that feels human</strong>, looks beautiful, and runs like a rocket</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Real-world AI tools that solve real-world chaos</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Clean, scalable, reliable backends</li>
+  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Tech that feels human, looks beautiful, and runs like a rocket</li>
 </ul>
 
-<p>💬 You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️</p>
+<p><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️</p>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Tech Stack Mastery</strong>
 </h2>
 
@@ -68,7 +68,7 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Connect With Me</strong>
 </h2>
 
@@ -82,35 +82,39 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Project Highlights</strong>
 </h2>
 
 <ul>
   <li>
-    <strong>📱 Astrology App for Panditji</strong><br/>
-    A Firebase-powered Android app with AI logic and bilingual UI.<br/>
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
+    <strong>Astrology App for Panditji</strong><br/>
+    Firebase-based Android app with AI and bilingual UI.<br/>
     🔗 <a href="https://github.com/krsna016/c2-astrology-app-latest">View Project</a>
   </li>
   <li>
-    <strong>⚡ BOOSTONIX Website</strong><br/>
-    Full React digital agency site with animations, blogs, WhatsApp.<br/>
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
+    <strong>BOOSTONIX Website</strong><br/>
+    React-based agency site with blog and WhatsApp integration.<br/>
     🔗 <a href="https://boostonix.agency">Live Preview</a>
   </li>
   <li>
-    <strong>🚢 Titanic ML Kaggle Project</strong><br/>
-    End-to-end ML workflow with detailed explainability.
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
+    <strong>Titanic ML Kaggle Project</strong><br/>
+    Clean ML pipeline with full EDA and tuning steps.
   </li>
   <li>
-    <strong>✉️ Gmail Follow-up Automation</strong><br/>
-    Dynamic, AI-ready follow-up system using Gmail API + Sheets.
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
+    <strong>Gmail Follow-up Automation</strong><br/>
+    Smart threaded follow-ups with Gmail API + Sheets.
   </li>
 </ul>
 
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>GitHub Stats</strong>
 </h2>
 
@@ -127,7 +131,7 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Contribution Graph</strong>
 </h2>
 
@@ -138,7 +142,7 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Mantra I Live By</strong>
 </h2>
 
@@ -147,11 +151,9 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Ready to Collaborate?</strong>
 </h2>
-
-<p>I'm open to:</p>
 
 <ul>
   <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Startups solving real problems</li>
@@ -165,11 +167,11 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="22" style="vertical-align: middle; margin-right: 8px;" />
   <strong>Closing Line</strong>
 </h2>
 
-<p><em>Thanks for scrolling 🙏  
+<p><em>Thanks for scrolling 🙏<br />
 You're not just visiting a GitHub — you're entering a <strong>tech mind at work</strong>.</em></p>
 
 <p><strong>Let’s build something that matters — together 🚀</strong></p>
