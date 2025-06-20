@@ -15,7 +15,7 @@
 
 <!-- 👨‍🚀 Hero GIF -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1L7ttKYXob18hp91G7Z8CFCkPEUPDSgGA" width="420" alt="Hero Coding GIF">
+  <img src="https://drive.google.com/uc?export=view&id=1ZXDkUWNS3gImlQY8w_wSc5DlGVHNhfEt" width="420" alt="3D Dev Illustration">
 </p>
 
 <!-- 📈 Profile Views -->
