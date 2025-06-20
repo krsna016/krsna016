@@ -13,12 +13,12 @@
   <img src="https://img.shields.io/badge/Mission-Tech%20That%20Elevates%20Lives-%230a0a0a" />
 </p>
 
-<!-- 👨‍🚀 Hero -->
+<!-- 👨‍🚀 Hero Image -->
 <p align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=1ZXDkUWNS3gImlQY8w_wSc5DlGVHNhfEt" 
-    style="max-width:400px; width:100%;" 
-    alt="Hero 3D Dev"
+    src="https://drive.google.com/uc?export=view&id=1ZmJHT7woiOR-7mURbmsNMn4X-Ye5ghGM" 
+    width="380" 
+    alt="3D Hero Developer"
   />
 </p>
 
