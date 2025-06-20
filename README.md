@@ -41,7 +41,7 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
 ## 🛠️ Tech Stack Mastery
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift,googlecloud" />
 </p>
 
 I specialize in:
