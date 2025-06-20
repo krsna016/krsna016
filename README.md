@@ -35,17 +35,26 @@
 </h2>
 
 Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, machine learning enthusiast, and system design nerd.
+
 💡 I'm on a mission to craft:
+
 <p>
-  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
-  <strong>Real-world AI tools that solve real-world chaos</strong>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Real-world AI tools that solve real-world chaos
 </p>
-- 🧠 Clean, scalable, reliable backends  
-- 🔐 Tech that feels human, looks beautiful, and runs like a rocket  
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Clean, scalable, reliable backends
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Tech that feels human, looks beautiful, and runs like a rocket
+</p>
 
 💬 You'll find me pushing pixels by day, solving algorithms by night, and meditating in between 🧘‍♂️
 
 ---
+
 <h2>
   <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
   Tech Stack Mastery
@@ -55,14 +64,29 @@ Hello! I’m Anurag Pareek — a performance-obsessed full-stack developer, mach
   <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift,googlecloud" />
 </p>
 
-I specialize in:
-- Backend Systems (Firebase, Node.js, APIs, Auth, Firestore)  
-- Frontend Crafting (React, Tailwind, Framer Motion)  
-- Clean Code & Git Discipline  
-- Python + Pandas + ML Workflows  
-- Building AI Features inside Apps (Gemini, OpenAI, Custom Prompts)
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Backend Systems (Firebase, Node.js, APIs, Auth, Firestore)
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Frontend Crafting (React, Tailwind, Framer Motion)
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Clean Code & Git Discipline
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Python + Pandas + ML Workflows
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Building AI Features inside Apps (Gemini, OpenAI, Custom Prompts)
+</p>
 
 ---
+
 <h2>
   <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
   Connect With Me
@@ -82,25 +106,39 @@ I specialize in:
   Project Highlights
 </h2>
 
-🌟 **Astrology App for Panditji**  
-> A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.  
-[Astrology App Repo](https://github.com/krsna016/c2-astrology-app-latest)
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Astrology App for Panditji</strong><br />
+  A production-grade Android app with Firebase login, custom AI integration, and dynamic bilingual UI.<br />
+  <a href="https://github.com/krsna016/c2-astrology-app-latest">Astrology App Repo</a>
+</p>
 
-🌟 **BOOSTONIX Website (Full React)**  
-> A digital agency frontend with animated services, blog engine, and WhatsApp integration.  
-[Live Preview](https://boostonix.agency)
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>BOOSTONIX Website (Full React)</strong><br />
+  A digital agency frontend with animated services, blog engine, and WhatsApp integration.<br />
+  <a href="https://boostonix.agency">Live Preview</a>
+</p>
 
-🌟 **Titanic ML Project (Full Kaggle Workflow)**  
-> From cleaning to EDA to model tuning with full explainability for every line.  
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Titanic ML Project (Full Kaggle Workflow)</strong><br />
+  From cleaning to EDA to model tuning with full explainability for every line.
+</p>
 
-🌟 **Gmail Follow-up Automation**  
-> Sends threaded, dynamic follow-ups using Gmail API and Google Sheets.  
-
-🔧 More projects in my pinned repos 🔽
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  <strong>Gmail Follow-up Automation</strong><br />
+  Sends threaded, dynamic follow-ups using Gmail API and Google Sheets.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- 📊 GitHub Stats -->
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  GitHub Stats
+</h2>
 
 <p align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff" />
@@ -114,7 +152,10 @@ I specialize in:
 
 ---
 
-## 🔁 Contribution Graph
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Contribution Graph
+</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&color=ffffff&line=00ffe4&point=ffffff" />
@@ -122,28 +163,48 @@ I specialize in:
 
 ---
 
-## 🎯 Mantra I Live By
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Mantra I Live By
+</h2>
 
 > _“Don’t ship garbage fast. Ship meaningful, optimized solutions slowly — and then scale them with elegance.”_
 
 ---
 
-## 📫 Ready to Collaborate?
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Ready to Collaborate?
+</h2>
 
 I'm open to:
-- 📈 Startups that solve real problems  
-- 🧩 Freelance roles with technical depth  
-- 🧠 Knowledge-sharing communities  
-- 🤝 Building sacred tech with purpose and principles
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Startups that solve real problems
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Freelance roles with technical depth
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Knowledge-sharing communities
+</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=WiWUkYcHpiI0&format=png&color=f9d042" width="18" style="vertical-align: middle; margin-right: 8px;" />
+  Building sacred tech with purpose and principles
+</p>
 
-Let’s talk at → **anurag020416@gmail.com**
+📬 Let’s talk at → **anurag020416@gmail.com**
 
 ---
 
-## 🧠 Closing Line
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=20487&format=png&color=f9d042" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  Closing Line
+</h2>
 
 Thanks for scrolling this far 🙏  
 You're not just visiting a GitHub — you're entering a **tech mind at work**.
 
 Let’s build something **that matters** — together 🚀
-
