@@ -1,7 +1,7 @@
 <!-- 🎬 Cinematic Typing Banner -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=600&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek+%F0%9F%9A%80;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe+%E2%9C%A8;Let%E2%80%99s+build+impact+with+code+that+lasts."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=600&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe;Let%E2%80%99s+build+impact+with+code+that+lasts."
     alt="Typing Banner"
   />
 </h1>
@@ -30,22 +30,22 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Who Am I?
 </h1>
 
 <p><strong style="font-size:18px;">Hey there! I'm Anurag Pareek</strong> — a tech soul with a builder’s obsession for clean systems, AI-driven logic, and meaningful impact. I work like a monk, think like an engineer, and build like a startup CTO.</p>
 
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Full-stack craftsman</strong> who thinks from backend to browser</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>ML + Prompting explorer</strong> building real AI inside apps</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Philosophical coder</strong> who believes tech should serve humanity</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Full-stack craftsman</strong> who thinks from backend to browser</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>ML + Prompting explorer</strong> building real AI inside apps</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Philosophical coder</strong> who believes tech should serve humanity</li>
 </ul>
 
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   What I Believe as a Developer
 </h1>
 
@@ -58,7 +58,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Tech Stack Mastery
 </h1>
 
@@ -67,40 +67,40 @@
 </p>
 
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Backend:</strong> Firebase, FastAPI, Firestore, Auth, Node</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Frontend:</strong> React, Tailwind, Framer Motion</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>Data:</strong> Pandas, Numpy, Matplotlib</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> <strong>AI Integration:</strong> OpenAI, Gemini, Prompt Engineering</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Backend:</strong> Firebase, FastAPI, Firestore, Auth, Node</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Frontend:</strong> React, Tailwind, Framer Motion</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Data:</strong> Pandas, Numpy, Matplotlib</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>AI Integration:</strong> OpenAI, Gemini, Prompt Engineering</li>
 </ul>
 
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Featured Projects
 </h1>
 
 <ul>
   <li>
-    <strong>🔮 Astrology App for Panditji</strong> – Dynamic Android app with bilingual UI, AI replies, Firestore backend  
+    <strong>Astrology App for Panditji</strong> – Dynamic Android app with bilingual UI, AI replies, Firestore backend  
     🔗 <a href="https://github.com/krsna016/c2-astrology-app-latest">View Project</a>
   </li>
   <li>
-    <strong>⚡ BOOSTONIX Agency Website</strong> – React + Framer + WhatsApp automation + CMS-ready  
+    <strong>BOOSTONIX Agency Website</strong> – React + Framer + WhatsApp automation + CMS-ready  
     🔗 <a href="https://boostonix.agency">Live Preview</a>
   </li>
   <li>
-    <strong>🧠 Titanic ML Project</strong> – Kaggle workflow with line-by-line explanations, full EDA, tuning, and storytelling
+    <strong>Titanic ML Project</strong> – Kaggle workflow with line-by-line explanations, full EDA, tuning, and storytelling
   </li>
   <li>
-    <strong>📩 Gmail Follow-up Automation</strong> – Sends threaded replies using Gmail API, Sheets + NLP logic
+    <strong>Gmail Follow-up Automation</strong> – Sends threaded replies using Gmail API, Sheets + NLP logic
   </li>
 </ul>
 
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   My AI Philosophy
 </h1>
 
@@ -114,22 +114,22 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Freelance & Startup Collab Process
 </h1>
 
 <p>Here’s how I build with speed, clarity, and soul:</p>
 
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Rapid Idea → MVP in 2–3 days</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Git discipline + PR-ready commits</li>
-  <li><img src="https://img.icons8.com/?size=100&id=74119&format=png&color=f9d042" width="16" /> Architecture-first, AI-in-mind approach</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Rapid Idea → MVP in 2–3 days</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Git discipline + PR-ready commits</li>
+  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Architecture-first, AI-in-mind approach</li>
 </ul>
 
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Connect With Me
 </h1>
 
@@ -143,7 +143,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   GitHub Activity
 </h1>
 
@@ -160,12 +160,12 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=3sfKcLNVI3W2&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Final Note
 </h1>
 
-<p><strong>Thanks for scrolling 🙏</strong></p>
+<p><strong>Thanks for scrolling</strong></p>
 <p><em>You didn’t just visit a GitHub. You entered the workspace of someone building sacred, scalable, smart code.</em></p>
-<p><strong>Let's collaborate and build something eternal.</strong> 🚀</p>
+<p><strong>Let's collaborate and build something eternal.</strong></p>
 
 <p>📬 <code>anurag020416@gmail.com</code></p>
