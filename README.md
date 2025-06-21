@@ -30,7 +30,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Who Am I?
 </h1>
 
@@ -45,7 +45,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   What I Believe as a Developer
 </h1>
 
@@ -58,7 +58,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Tech Stack Mastery
 </h1>
 
@@ -76,7 +76,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Featured Projects
 </h1>
 
@@ -100,7 +100,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   My AI Philosophy
 </h1>
 
@@ -114,7 +114,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Freelance & Startup Collab Process
 </h1>
 
@@ -129,7 +129,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Connect With Me
 </h1>
 
@@ -143,7 +143,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   GitHub Activity
 </h1>
 
@@ -160,7 +160,7 @@
 ---
 
 <h1>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Final Note
 </h1>
 
