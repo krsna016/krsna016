@@ -82,17 +82,21 @@
 
 <ul>
   <li>
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
     <strong>Astrology App for Panditji</strong> – Dynamic Android app with bilingual UI, AI replies, Firestore backend  
     🔗 <a href="https://github.com/krsna016/c2-astrology-app-latest">View Project</a>
   </li>
   <li>
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
     <strong>BOOSTONIX Agency Website</strong> – React + Framer + WhatsApp automation + CMS-ready  
     🔗 <a href="https://boostonix.agency">Live Preview</a>
   </li>
   <li>
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
     <strong>Titanic ML Project</strong> – Kaggle workflow with line-by-line explanations, full EDA, tuning, and storytelling
   </li>
   <li>
+    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
     <strong>Gmail Follow-up Automation</strong> – Sends threaded replies using Gmail API, Sheets + NLP logic
   </li>
 </ul>
