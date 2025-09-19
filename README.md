@@ -38,7 +38,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Who Am I?
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p><strong style="font-size:18px;">Hey there! I'm Anurag Pareek</strong> — a tech soul with a builder's obsession for clean systems, AI-driven logic, and meaningful impact. I work like a monk, think like an engineer, and build like a startup CTO.</p>
 
@@ -67,7 +67,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   What I Believe as a Developer
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <ul>
   <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Code isn't just logic — it's <strong>compressed clarity</strong></li>
@@ -80,7 +80,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Tech Stack Mastery
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift,googlecloud" />
@@ -117,7 +117,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Featured Projects
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <!-- 🚀 Project Showcase -->
 <div align="center">
@@ -158,7 +158,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   My AI Philosophy
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p>I don't just "call APIs". I architect AI inside products with:</p>
 <ul>
@@ -172,7 +172,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Freelance & Startup Collab Process
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p>Here's how I build with speed, clarity, and soul:</p>
 
@@ -187,7 +187,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   GitHub Activity & Analytics
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
@@ -224,7 +224,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Connect & Collaborate
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/016anuragpareek"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -254,7 +254,7 @@
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Fun Facts & Extras
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <!-- 🎮 Fun Section -->
 <details>
@@ -291,7 +291,7 @@ Other        ████▓                       15.3%
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   Final Note
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p><strong>Thanks for scrolling</strong></p>
 <p><em>You didn't just visit a GitHub. You entered the workspace of someone building sacred, scalable, smart code.</em></p>
