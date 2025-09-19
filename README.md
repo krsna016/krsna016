@@ -305,12 +305,12 @@ Other        ████▓                       15.3%
 
 <!-- 💡 Random Dev Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 <!-- 😄 Programming Joke -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Programming Joke" />
+  <img width="50%" src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Programming Joke" />
 </p>
 
 ---
