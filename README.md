@@ -4,7 +4,6 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=600&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe;Let%E2%80%99s+build+impact+with+code+that+lasts."
     alt="Typing Banner"
   />
-<img src="https://img.icons8.com/?size=100</h1>id=yOtDIN1jTK5f</h1>format=png</h1>color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <!-- 🧠 Value Pillars -->
 <p align="center">
