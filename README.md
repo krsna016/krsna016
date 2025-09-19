@@ -298,59 +298,12 @@ Other        ████▓                       15.3%
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Daily Inspiration & Fun
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" />
-</h1>
-
-<!-- 💡 Random Dev Quote -->
-<p align="center">
-  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<!-- 😄 Programming Joke -->
-<p align="center">
-  <img width="50%" src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Programming Joke" />
-</p>
-
----
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  WakaTime Coding Stats
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" />
-</h1>
-
-<!-- ⏱️ WakaTime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krsna016&theme=radical&bg_color=0a0a0a&hide_border=true" alt="WakaTime Stats" />
-</p>
-
----
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  GitHub Achievements & Metrics
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" />
-</h1>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=krsna016&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<!-- 📊 Contribution Graph -->
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<!-- 🌐 Social Links -->
-<p align="center">
-  <a href="https://twitter.com/krsna016"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://dev.to/krsna016"><img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="https://medium.com/@krsna016"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
-
----
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
