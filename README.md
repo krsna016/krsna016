@@ -329,13 +329,18 @@ Other        ████▓                       15.3%
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Recent Activity & Metrics
+  GitHub Achievements & Metrics
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" />
 </h1>
 
-<!-- 📊 GitHub Metrics -->
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/krsna016?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=krsna016&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<!-- 📊 Contribution Graph -->
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <!-- 🌐 Social Links -->
