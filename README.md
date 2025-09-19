@@ -32,14 +32,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=krsna016.krsna016&left_color=crimson&right_color=36b812&left_text=Hello%20Visitors" alt="Visitor Badge" />
 </p>
 
-<!-- 🎵 Currently Playing -->
+<!-- ⚡ Dynamic Status -->
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
-</p>
-
-<!-- ⏰ Current Time & Date -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=🕐+Current+Time:+$(date);📅+Today:+$(date +'%A, %B %d, %Y');⚡+Coding+since+2022" alt="Time Display" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=⚡+Currently+Building+AI+Applications;🎵+Coding+with+Lo-fi+Beats;🌍+Based+in+India+(UTC%2B5:30);💻+Available+for+Collaboration" alt="Dynamic Status" />
 </p>
 
 <!-- 🏆 GitHub Trophies -->
