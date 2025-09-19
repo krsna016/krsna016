@@ -7,9 +7,9 @@
 </h1>
 
 <!-- 🌊 Animated Line -->
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&animation=fadeIn" />
-</p>
+</div>
 
 <!-- 🧠 Value Pillars -->
 <p align="center">
