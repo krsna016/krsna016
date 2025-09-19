@@ -190,29 +190,35 @@
   GitHub Activity & Analytics
 </h1>
 
-<!-- 📊 GitHub Stats Grid -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00&hide_border=true" />
-</div>
+<!-- 📊 GitHub Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00&hide_border=true" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=tokyonight&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&hide_border=true" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=tokyonight&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
+</p>
 
-<!-- 📈 Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krsna016/krsna016/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<!-- 📈 Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&hide_border=true" alt="Activity Graph" />
+</p>
 
-<!-- 🎯 Quick Stats -->
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/pin/?username=krsna016&repo=top-50-python&theme=radical&bg_color=0a0a0a&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/pin/?username=krsna016&repo=c2-telegram-ai-powered-bot-latest&theme=radical&bg_color=0a0a0a&hide_border=true)
+<!-- 🐍 Contribution Snake -->
+<p align="center">
+  <img src="https://github.com/krsna016/krsna016/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-</div>
+<!-- 🎯 Pinned Repositories -->
+<p align="center">
+  <a href="https://github.com/krsna016/top-50-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krsna016&repo=top-50-python&theme=radical&bg_color=0a0a0a&hide_border=true" />
+  </a>
+  <a href="https://github.com/krsna016/c2-telegram-ai-powered-bot-latest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krsna016&repo=c2-telegram-ai-powered-bot-latest&theme=radical&bg_color=0a0a0a&hide_border=true" />
+  </a>
+</p>
 
 ---
 
