@@ -191,12 +191,12 @@
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=tokyonight&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=tokyonight&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00&hide_border=true" />
 </p>
 
 <!-- 📈 Activity Graph -->
