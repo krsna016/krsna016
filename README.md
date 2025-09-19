@@ -6,6 +6,7 @@
   />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
 </h1>
+
 <!-- 🧠 Value Pillars -->
 <p align="center">
   <img src="https://img.shields.io/badge/Mindset-Builders%20Not%20Tinkerers-%230a0a0a" />
