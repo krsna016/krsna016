@@ -9,9 +9,9 @@
 
 <!-- 🧠 Value Pillars -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Builders%20Not%20Tinkerers-%230a0a0a" />
-  <img src="https://img.shields.io/badge/Vision-Code%20That%20Solves%2C%20Not%20Just%20Runs-%230a0a0a" />
-  <img src="https://img.shields.io/badge/Mission-Tech%20That%20Elevates%20Lives-%230a0a0a" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer%20%7C%20AI%2FML%20Engineer-%230a0a0a" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Solutions%20%7C%20Clean%20Architecture-%230a0a0a" />
+  <img src="https://img.shields.io/badge/Mission-Building%20Impact%20Through%20Code-%230a0a0a" />
 </p>
 
 <!-- 🧍♂️ Hero Image -->
@@ -294,6 +294,13 @@ Other        ████▓                       15.3%
 
 </details>
 
+<!-- 🌐 Professional Contact -->
+<p align="center">
+  <a href="mailto:contact.anuragpareek@gmail.com"><img src="https://img.shields.io/badge/Email-contact.anuragpareek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anurag-pareek-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://anuragpareek.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
 ---
 
 <h1 align="center">
@@ -304,6 +311,18 @@ Other        ████▓                       15.3%
 <p><strong>Thanks for scrolling</strong></p>
 <p><em>You didn't just visit a GitHub. You entered the workspace of someone building sacred, scalable, smart code.</em></p>
 <p><strong>Let's collaborate and build something eternal.</strong></p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒-Security%20Conscious-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/📝-Clean%20Code-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚀-Production%20Ready-orange?style=flat-square" />
+</p>
+
+<p align="center">
+  <sub>⚡ All repositories follow security best practices | No sensitive data exposed | Professional development standards maintained</sub>
+</p>
 
 <!-- 🎨 Footer -->
 <div align="center">
