@@ -18,7 +18,7 @@
 <p align="center">
   <img 
     src="https://drive.google.com/uc?export=view&id=1ZmJHT7woiOR-7mURbmsNMn4X-Ye5ghGM" 
-    width="400" 
+    width="500" 
     alt="Hero Image"
   />
 </p>
