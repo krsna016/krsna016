@@ -33,7 +33,7 @@
 
 <!-- ⚡ Dynamic Status -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Currently+Building+AI+Applications;%F0%9F%8E%B5+Coding+with+Lo-fi+Beats;%F0%9F%8C%8D+Based+in+India;%F0%9F%92%BB+Available+for+Collaboration" alt="Dynamic Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=f9d042&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Currently+Building+AI+Applications;%F0%9F%8E%B5+Coding+with+Lo-fi+Beats;%F0%9F%8C%8D+Based+in+India;%F0%9F%92%BB+Available+for+Collaboration" alt="Dynamic Status" />
 </p>
 
 <!-- 🏆 GitHub Trophies -->
