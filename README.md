@@ -17,8 +17,8 @@
 <!-- 🧍♂️ Hero Image -->
 <p align="center">
   <img 
-    src="https://drive.google.com/file/d/1_jxX8j95zMzEwbSwx5BqCvgsrfv6q37F/view" 
-    width="500" 
+    src="https://drive.google.com/uc?export=view&id=1_jxX8j95zMzEwbSwx5BqCvgsrfv6q37F"
+    width="500"
     alt="Hero Image"
   />
 </p>
