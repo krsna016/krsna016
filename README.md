@@ -37,9 +37,9 @@
 </p>
 
 <!-- 🏆 GitHub Trophies -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krsna016&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
