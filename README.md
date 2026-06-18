@@ -127,6 +127,8 @@ I actively maintain and contribute to open-source projects. Recent contributions
   <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" width="64" alt="YOLO - Active" title="YOLO - Active" />
   <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" width="64" alt="Quickdraw - Active" title="Quickdraw - Active" />
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" width="64" alt="Pair Extraordinaire - Active" title="Pair Extraordinaire - Active" />
+  <img src="https://img.shields.io/badge/Open%20Sourcerer-Active-blue?style=flat-square" height="64" alt="Open Sourcerer - Active" title="Open Sourcerer - Active" />
+  <img src="https://img.shields.io/badge/Heart%20On%20Your%20Sleeve-Active-red?style=flat-square" height="64" alt="Heart On Your Sleeve - Active" title="Heart On Your Sleeve - Active" />
   <br><br>
   <h3>Locked Achievements (Grayscale Placeholders)</h3>
   <img src="https://github.githubassets.com/assets/galaxy-brain-default-e967a514d241.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Galaxy Brain - Locked" title="Galaxy Brain - Locked" />
@@ -144,6 +146,10 @@ I actively maintain and contribute to open-source projects. Recent contributions
   `████████████████████` (1 / 1 Self-merged PR without reviews)
 * ⚡ **Quickdraw (Active)** — `100% Completed`
   `████████████████████` (1 / 1 Issue/PR closed in <5 mins)
+* 🐙 **Open Sourcerer (Active)** — `100% Completed`
+  `████████████████████` (Pull requests merged across multiple public repos)
+* 💖 **Heart On Your Sleeve (Active)** — `100% Completed`
+  `████████████████████` (Reacted with a heart emoji to an active issue/PR)
 * ⭐ **Starstruck (Locked)** — `0% Completed`
   `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Received stars)
 * 🧠 **Galaxy Brain (Locked)** — `0% Completed`
