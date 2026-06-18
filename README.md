@@ -71,7 +71,6 @@ I maintain active repositories tracking my implementations of data analytics, vi
 | **[Data Science Learning](https://github.com/krsna016/data-science-cwh)** | Implementations of statistical models and exploratory data profiling. | Python • Scikit-Learn |
 | **[Data Visualization](https://github.com/krsna016/python-data-visualization)** | Visualizing statistical distributions, correlations, and geospatial datasets. | Seaborn • Plotly • Matplotlib |
 | **[Data Foundations](https://github.com/krsna016/python-learning-ineuron)** | Assignments, notebooks, and coding structures focused on statistical modeling. | Python • NumPy • SciPy |
-| **[Android-Mac Sensor Link](https://github.com/krsna016/android-mac-sensor-link)** | Wireless Android sensor telemetry & live macOS automation bridge using ADB. | Python • Shell • AppleScript |
 
 ---
 
