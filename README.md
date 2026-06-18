@@ -120,7 +120,7 @@ I maintain dedicated repositories tracking my continuous study and implementatio
     <tr>
       <td align="center" valign="top" width="240">
         <br />
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" height="90" alt="Pull Shark Badge" />
+        <img src="assets/badges/PullShark.png" width="90" height="90" alt="Pull Shark Badge" />
         <br /><br />
         <strong>🏆 Pull Shark (Bronze x2)</strong>
         <br />
@@ -132,7 +132,7 @@ I maintain dedicated repositories tracking my continuous study and implementatio
       </td>
       <td align="center" valign="top" width="240">
         <br />
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" width="90" height="90" alt="Quickdraw Badge" />
+        <img src="assets/badges/Quickdraw.png" width="90" height="90" alt="Quickdraw Badge" />
         <br /><br />
         <strong>⚡ Quickdraw</strong>
         <br />
@@ -153,28 +153,28 @@ I maintain dedicated repositories tracking my continuous study and implementatio
     <table border="0" cellpadding="10">
       <tr>
         <td align="center" valign="top" width="160">
-          <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" width="60" height="60" alt="YOLO" />
+          <img src="assets/badges/Yolo.png" width="60" height="60" alt="YOLO" />
           <br /><br />
           <strong>YOLO</strong>
           <br />
           <font size="2" color="#888888">Self-merge a PR without review</font>
         </td>
         <td align="center" valign="top" width="160">
-          <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" width="60" height="60" alt="Pair Extraordinaire" />
+          <img src="assets/badges/PairExtraordinaire.png" width="60" height="60" alt="Pair Extraordinaire" />
           <br /><br />
           <strong>Pair Extraordinaire</strong>
           <br />
           <font size="2" color="#888888">Co-author a commit with a peer</font>
         </td>
         <td align="center" valign="top" width="160">
-          <img src="https://github.githubassets.com/assets/galaxy-brain-default-e967a514d241.png" width="60" height="60" alt="Galaxy Brain" />
+          <img src="assets/badges/GalaxyBrain.png" width="60" height="60" alt="Galaxy Brain" />
           <br /><br />
           <strong>Galaxy Brain</strong>
           <br />
           <font size="2" color="#888888">2 accepted discussion answers</font>
         </td>
         <td align="center" valign="top" width="160">
-          <img src="https://github.githubassets.com/assets/starstruck-default-f1008a0d0d82.png" width="60" height="60" alt="Starstruck" />
+          <img src="assets/badges/Starstruck.png" width="60" height="60" alt="Starstruck" />
           <br /><br />
           <strong>Starstruck</strong>
           <br />
