@@ -67,10 +67,10 @@ I maintain active repositories tracking my implementations of data analytics, vi
 | Repository / Project | Description | Primary Stack |
 | :--- | :--- | :--- |
 | **[Fintura](https://github.com/krsna016/fintura)** | Production-grade transaction intelligence platform parsing bank statement ledgers. | FastAPI • Next.js • SQL |
-| **[Data Science Workflows](https://github.com/krsna016/data-science-ineuron-2025-v2)** | End-to-end exploratory analysis pipelines, outliers treatment, and notebooks. | Python • Pandas • Jupyter |
-| **[Data Science Learning](https://github.com/krsna016/data-science-cwh-2025-v2)** | Implementations of statistical models and exploratory data profiling. | Python • Scikit-Learn |
-| **[Data Visualization](https://github.com/krsna016/python-data-visualization-libraries-2025-v1)** | Visualizing statistical distributions, correlations, and geospatial datasets. | Seaborn • Plotly • Matplotlib |
-| **[Data Foundations](https://github.com/krsna016/python-learning-ineuron-2025-v1)** | Assignments, notebooks, and coding structures focused on statistical modeling. | Python • NumPy • SciPy |
+| **[Data Science Workflows](https://github.com/krsna016/data-science-ineuron)** | End-to-end exploratory analysis pipelines, outliers treatment, and notebooks. | Python • Pandas • Jupyter |
+| **[Data Science Learning](https://github.com/krsna016/data-science-cwh)** | Implementations of statistical models and exploratory data profiling. | Python • Scikit-Learn |
+| **[Data Visualization](https://github.com/krsna016/python-data-visualization)** | Visualizing statistical distributions, correlations, and geospatial datasets. | Seaborn • Plotly • Matplotlib |
+| **[Data Foundations](https://github.com/krsna016/python-learning-ineuron)** | Assignments, notebooks, and coding structures focused on statistical modeling. | Python • NumPy • SciPy |
 
 ---
 
