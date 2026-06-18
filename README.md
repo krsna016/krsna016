@@ -62,20 +62,15 @@ I actively participate in structured data competitions and notebook development 
 
 ## 📊 Analytics Journey & Portfolios
 
-I maintain dedicated repositories tracking my continuous study and implementation of data analytics and machine learning:
+I maintain active repositories tracking my implementations of data analytics, visualization, and platform development:
 
-| Repository / Project | Description | Target Insights |
+| Repository / Project | Description | Primary Stack |
 | :--- | :--- | :--- |
-| **[Data Analysis Projects](https://github.com/krsna016/data-analysis-projects)** | End-to-end analytics workflows, data cleaning, and statistical deep dives. | Exploratory Analysis & Reports |
-| **[Visualization Journey](https://github.com/krsna016/visualization-journey)** | Visualizing statistical distributions, correlations, and geospatial datasets. | Storytelling & Exploration |
-| **[SQL Practice Repository](https://github.com/krsna016/sql-for-data-analysis)** | Advanced query exercises, CTEs, window functions, and schema designs. | Database Manipulation |
-| **[Statistics Notes](https://github.com/krsna016/statistics-for-data-science)** | Interactive notebooks exploring inferential statistics, A/B testing, and probability. | Scientific Experimentation |
-| **[Machine Learning Playground](https://github.com/krsna016/machine-learning-playground)** | From-scratch and library implementations of predictive models. | Supervised Predictions |
-| **[Analytics Case Studies](https://github.com/krsna016/analytics-case-studies)** | Business metrics modeling (User Retention, Churn Analysis, CAC/LTV). | Strategic Business Insights |
-| **[Dashboard Gallery](https://github.com/krsna016/dashboard-gallery)** | BI Dashboards built using Power BI and Tableau. | Executive Reporting |
-| **[Kaggle Notebooks](https://github.com/krsna016/kaggle-notebooks)** | Explorations and competition submissions. | Structured Machine Learning |
-| **[Data Cleaning Recipes](https://github.com/krsna016/data-cleaning-recipes)** | Reusable utility scripts for data cleaning and pipeline ETL. | Data Wrangling & Pipelines |
-| **[Engineering Notes](https://github.com/krsna016/engineering-notes)** | Notes on system design, star schemas, indexing, and algorithms. | Analytical Infrastructure |
+| **[Fintura](https://github.com/krsna016/fintura)** | Production-grade transaction intelligence platform parsing bank statement ledgers. | FastAPI • Next.js • SQL |
+| **[Data Science Workflows](https://github.com/krsna016/data-science-ineuron-2025-v2)** | End-to-end exploratory analysis pipelines, outliers treatment, and notebooks. | Python • Pandas • Jupyter |
+| **[Data Science Learning](https://github.com/krsna016/data-science-cwh-2025-v2)** | Implementations of statistical models and exploratory data profiling. | Python • Scikit-Learn |
+| **[Data Visualization](https://github.com/krsna016/python-data-visualization-libraries-2025-v1)** | Visualizing statistical distributions, correlations, and geospatial datasets. | Seaborn • Plotly • Matplotlib |
+| **[Data Foundations](https://github.com/krsna016/python-learning-ineuron-2025-v1)** | Assignments, notebooks, and coding structures focused on statistical modeling. | Python • NumPy • SciPy |
 
 ---
 
