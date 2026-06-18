@@ -124,11 +124,11 @@ I actively maintain and contribute to open-source projects. Recent contributions
 <div align="center">
   <h3>Active Achievements</h3>
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark (Bronze x2) - Active" title="Pull Shark (Bronze x2) - Active" />
+  <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" width="64" alt="YOLO - Active" title="YOLO - Active" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" width="64" alt="Quickdraw - Active" title="Quickdraw - Active" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" width="64" alt="Pair Extraordinaire - Active" title="Pair Extraordinaire - Active" />
   <br><br>
   <h3>Locked Achievements (Grayscale Placeholders)</h3>
-  <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="YOLO - Locked" title="YOLO - Locked" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Quickdraw - Locked" title="Quickdraw - Locked" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Pair Extraordinaire - Locked" title="Pair Extraordinaire - Locked" />
   <img src="https://github.githubassets.com/assets/galaxy-brain-default-e967a514d241.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Galaxy Brain - Locked" title="Galaxy Brain - Locked" />
   <img src="https://github.githubassets.com/assets/public-sponsor-default-878cd9c8fa72.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Public Sponsor - Locked" title="Public Sponsor - Locked" />
   <img src="https://github.githubassets.com/assets/starstruck-default-f1008a0d0d82.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Starstruck - Locked" title="Starstruck - Locked" />
@@ -138,12 +138,12 @@ I actively maintain and contribute to open-source projects. Recent contributions
 
 * 🦈 **Pull Shark (Active - Bronze Tier x2)** — `12.5% Completed`
   `██░░░░░░░░░░░░░░░░░░` (2 / 16 PRs to next tier: Silver)
-* 👥 **Pair Extraordinaire (Locked)** — `0% Completed`
-  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Co-authored commits)
-* 🪂 **YOLO (Locked)** — `0% Completed`
-  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Self-merged PR without reviews)
-* ⚡ **Quickdraw (Locked)** — `0% Completed`
-  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Issue/PR closed in <5 mins)
+* 👥 **Pair Extraordinaire (Active)** — `100% Completed`
+  `████████████████████` (1 / 1 Co-authored commits)
+* 🪂 **YOLO (Active)** — `100% Completed`
+  `████████████████████` (1 / 1 Self-merged PR without reviews)
+* ⚡ **Quickdraw (Active)** — `100% Completed`
+  `████████████████████` (1 / 1 Issue/PR closed in <5 mins)
 * ⭐ **Starstruck (Locked)** — `0% Completed`
   `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Received stars)
 * 🧠 **Galaxy Brain (Locked)** — `0% Completed`
@@ -152,10 +152,9 @@ I actively maintain and contribute to open-source projects. Recent contributions
   `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Sponsored developer via GitHub Sponsors)
 
 ### Next Achievements To Unlock (Easiest First)
-1. **Quickdraw ⚡** *(Effort: Very Low - 1 min)* — Open an issue in one of your public repositories and close it immediately.
-2. **YOLO 🪂** *(Effort: Very Low - 2 mins)* — Merge a pull request without code reviews.
-3. **Pair Extraordinaire 👥** *(Effort: Low - 5 mins)* — Commit changes using the co-authored trailer tag.
-4. **Pull Shark (Silver Upgrade) 🦈** *(Effort: Medium - 1 hour)* — Merge 14 more pull requests across your active repositories.
+1. **Pull Shark (Silver Upgrade) 🦈** *(Effort: Medium - 1 hour)* — Merge 14 more pull requests across your active repositories.
+2. **Galaxy Brain 🧠** *(Effort: Medium - 1 hour)* — Enable discussions in a repository, have another user post an answer, and select it as accepted.
+3. **Starstruck ⭐** *(Effort: High)* — Accumulate stars on your newly published repositories from community users.
 
 ---
 
