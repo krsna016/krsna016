@@ -1,15 +1,4 @@
-# krsna016
-
-[![Language: Markdown](https://img.shields.io/badge/language-Markdown-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI Pipeline](https://github.com/krsna016/krsna016/actions/workflows/ci.yml/badge.svg)](https://github.com/krsna016/krsna016/actions/workflows/ci.yml)
-[![Security: CodeQL](https://github.com/krsna016/krsna016/actions/workflows/codeql.yml/badge.svg)](https://github.com/krsna016/krsna016/actions/workflows/codeql.yml)
-
-Professional engineering repository configurations deployed inside your GitHub profile.
-
----
-
-## 📝 Overview & Core Description
+<!-- 🎬 Cinematic Typing Banner -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=600&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe;Let%E2%80%99s+build+impact+with+code+that+lasts."
@@ -349,50 +338,3 @@ Other        ████▓                       15.3%
   <img src="https://img.shields.io/badge/Made%20with-❤️-red" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Last%20Updated-2025--09--19-brightgreen" alt="Last Updated" />
 </p>
-
----
-
-## 🏛️ System Design & Folder Structure
-```text
-.github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
-.editorconfig             # Unified file formatting configuration
-.gitattributes            # Normalization variables for LF line endings
-.gitignore                # Local environment overrides and cache limits
-.pre-commit-config.yaml   # Quality check execution triggers
-LICENSE                   # Permissive open-source MIT License
-Makefile                  # Development workspace orchestrator
-CHANGELOG.md              # Historical version tracking
-CONTRIBUTING.md           # Developer onboarding guidelines
-CODE_OF_CONDUCT.md        # Communication guidelines
-SECURITY.md               # Responsible vulnerability disclosures
-```
-
----
-
-## 🛠️ Tooling & Tech Stack
-- **Primary Environment:** Markdown runtime.
-- **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
-- **Standards Checkers:** Git `pre-commit` hook validations.
-
----
-
-## ⚙️ Quickstart & Local Setup
-1. Clone this repository locally:
-   ```bash
-   git clone https://github.com/krsna016/krsna016.git
-   cd krsna016
-   ```
-2. Trigger the local setup runner:
-   ```bash
-   make help
-   ```
-
----
-
-## 📋 Security & Responsible Disclosure
-For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
-
----
-
-## 📜 License
-This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
