@@ -1,398 +1,195 @@
-# krsna016
-
-[![Language: Markdown](https://img.shields.io/badge/language-Markdown-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI Pipeline](https://github.com/krsna016/krsna016/actions/workflows/ci.yml/badge.svg)](https://github.com/krsna016/krsna016/actions/workflows/ci.yml)
-[![Security: CodeQL](https://github.com/krsna016/krsna016/actions/workflows/codeql.yml/badge.svg)](https://github.com/krsna016/krsna016/actions/workflows/codeql.yml)
-
-Professional engineering repository configurations deployed inside your GitHub profile.
-
----
-
-## 📝 Overview & Core Description
+<!-- Header Typing Banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=600&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Anurag+Pareek;Engineer+of+Ideas+%7C+Craftsman+of+Code+%7C+Architect+of+Systems.;I+build+products+with+clean+architecture+and+AI-driven+logic.;Full-Stack+Developer+%7C+ML+Explorer+%7C+Data+Science.;Welcome+to+my+Coding+Universe;Let%E2%80%99s+build+impact+with+code+that+lasts."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Anurag+Pareek;Staff+Software+Engineer+%7C+Open+Source+Maintainer;Architecting+ML+Pipelines+%26+Scalable+Backend+Systems;Welcome+to+my+Engineering+Portfolio"
     alt="Typing Banner"
   />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header" />
 </p>
 
-<!-- 🧠 Value Pillars -->
+<!-- Value Pillars / Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer%20%7C%20AI%2FML%20Engineer-%230a0a0a" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Solutions%20%7C%20Clean%20Architecture-%230a0a0a" />
-  <img src="https://img.shields.io/badge/Mission-Building%20Impact%20Through%20Code-%230a0a0a" />
+  <a href="https://linkedin.com/in/016anuragpareek"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact.anuragpareek@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-%23D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-System%20Design%20%7C%20MLOps-%230a0a0a?style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krsna016.krsna016&left_color=black&right_color=f9d042&left_text=Visitors" alt="Visitor Counter" />
 </p>
-
-<!-- 🧍♂️ Hero Image -->
-<p align="center">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=1_jxX8j95zMzEwbSwx5BqCvgsrfv6q37F"
-    width="300"
-    alt="Hero Image"
-  />
-</p>
-
-<!-- 👁️🗨️ Profile Views & Achievements -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/krsna016?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/krsna016?label=Total%20Stars&style=social" alt="GitHub Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=krsna016.krsna016&left_color=crimson&right_color=36b812&left_text=Hello%20Visitors" alt="Visitor Badge" />
-</p>
-
-<!-- ⚡ Dynamic Status -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=f9d042&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Currently+Building+AI+Applications;%F0%9F%8E%B5+Coding+with+Lo-fi+Beats;%F0%9F%8C%8D+Based+in+India;%F0%9F%92%BB+Available+for+Collaboration" alt="Dynamic Status" />
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krsna016&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p> -->
 
 ---
 
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Who Am I?
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+## 🙋‍♂️ Hi There!
 
-<p><strong style="font-size:18px;">Hey there! I'm Anurag Pareek</strong> — a tech soul with a builder's obsession for clean systems, AI-driven logic, and meaningful impact. I work like a monk, think like an engineer, and build like a startup CTO.</p>
+I am a **Staff Software Engineer, Open Source Maintainer, and DevRel Lead** with a passion for building robust, secure, and production-grade applications. My expertise spans backend engineering, distributed systems, machine learning pipelines, and full-stack development. I focus on clean architecture, performance optimization, and developer experience.
 
-<ul>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Full-stack craftsman</strong> who thinks from backend to browser</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>ML + Prompting explorer</strong> building real AI inside apps</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Philosophical coder</strong> who believes tech should serve humanity</li>
-</ul>
-
-<!-- 📊 Current Status -->
-<details>
-<summary><strong>🔥 Current Focus & Learning</strong></summary>
-<br>
-
-- 🌱 Currently mastering **Advanced Machine Learning & Deep Learning**
-- 🔭 Working on **AI-powered applications** with real-world impact
-- 👯 Looking to collaborate on **open source projects** and **innovative startups**
-- 🤔 Exploring **MLOps, Cloud Architecture, and System Design**
-- 💬 Ask me about **Python, AI Integration, Full-Stack Development**
-- ⚡ Fun fact: **I debug with philosophy and code with meditation music**
-
-</details>
+* **Design Philosophy:** Code should be compressed clarity. Clean architecture outlives clever hacks.
+* **Engineering Standard:** Test-driven, secure-by-default, and documented to Kubernetes-grade standards.
 
 ---
 
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  What I Believe as a Developer
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<ul>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Code isn't just logic — it's <strong>compressed clarity</strong></li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Clean architecture outlives clever hacks</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> AI is not magic — it's math + empathy</li>
-</ul>
+## 🔥 Current Focus
+- 🚀 Optimizing distributed data processing and MLOps automation pipelines.
+- 🧪 Mastering advanced deep learning architectures and agentic AI systems.
+- 📚 Refining backend performance: caching layers, database indexing, and API gateways.
 
 ---
 
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Tech Stack Mastery
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+## 🛠️ Tech Stack & Ecosystem
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,cpp,js,react,firebase,mysql,git,github,linux,vscode,swift,googlecloud" />
-</p>
+```text
+Languages:    Python, TypeScript, Go, Java, C++, SQL
+Frameworks:   FastAPI, Next.js, React, Node.js, PyTorch, Supabase, Firebase
+Tools/Infra:  Docker, PostgreSQL, Redis, GitHub Actions, AWS, GCP, Terraform
+```
 
-<!-- 📈 Skill Levels -->
-<details>
-<summary><strong>💪 Skill Proficiency Levels</strong></summary>
-<br>
-
-**Languages:**
-- ![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-brightgreen)
-- ![Java](https://img.shields.io/badge/Java-80%25-green)
-- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-75%25-green)
-
-**Frameworks & Tools:**
-- ![React](https://img.shields.io/badge/React-85%25-brightgreen)
-- ![Firebase](https://img.shields.io/badge/Firebase-90%25-brightgreen)
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-80%25-green)
-- ![Data Science](https://img.shields.io/badge/Data%20Science-85%25-brightgreen)
-
-</details>
-
-<ul>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Backend:</strong> Firebase, FastAPI, Firestore, Auth, Node</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Frontend:</strong> React, Tailwind, Framer Motion</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Data:</strong> Pandas, Numpy, Matplotlib</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>AI Integration:</strong> OpenAI, Gemini, Prompt Engineering</li>
-</ul>
-
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Featured Projects
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<!-- 🚀 Project Showcase -->
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [🔮 Astrology App](https://github.com/krsna016/c2-astrology-app-latest) | Dynamic Android app with AI replies | Firebase, Android, AI | ✅ Live |
-| [🚀 BOOSTONIX Agency](https://boostonix.agency) | Modern agency website | React, Framer Motion | ✅ Live |
-| [🤖 AI Telegram Bot](https://github.com/krsna016/c2-telegram-ai-powered-bot-latest) | Smart AI-powered chatbot | Python, Gemini API | ✅ Active |
-| [📧 Gmail Automation](https://github.com/krsna016/c2-gmail-followup-automation-latest) | Email follow-up system | Python, Gmail API | ✅ Working |
-| [🎯 Top 50 Python](https://github.com/krsna016/top-50-python) | Essential Python programs | Python, Education | ✅ Complete |
-
-</div>
-
-<ul>
-  <li>
-    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
-    <strong>Astrology App for Panditji</strong> – Dynamic Android app with bilingual UI, AI replies, Firestore backend  
-    🔗 <a href="https://github.com/krsna016/c2-astrology-app-latest">View Project</a>
-  </li>
-  <li>
-    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
-    <strong>BOOSTONIX Agency Website</strong> – React + Framer + WhatsApp automation + CMS-ready  
-    🔗 <a href="https://boostonix.agency">Live Preview</a>
-  </li>
-  <li>
-    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
-    <strong>Titanic ML Project</strong> – Kaggle workflow with line-by-line explanations, full EDA, tuning, and storytelling
-  </li>
-  <li>
-    <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" />
-    <strong>Gmail Follow-up Automation</strong> – Sends threaded replies using Gmail API, Sheets + NLP logic
-  </li>
-</ul>
-
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  My AI Philosophy
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<p>I don't just "call APIs". I architect AI inside products with:</p>
-<ul>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Thoughtful prompt chaining (Gemini + OpenAI)</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Custom personality shaping (divine, monk, witty styles)</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> FastAPI + Firestore pipelines for real-time inference</li>
-</ul>
-
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Freelance & Startup Collab Process
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<p>Here's how I build with speed, clarity, and soul:</p>
-
-<ul>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Rapid Idea → MVP in 2–3 days</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Git discipline + PR-ready commits</li>
-  <li><img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> Architecture-first, AI-in-mind approach</li>
-</ul>
-
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  GitHub Activity & Analytics
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=tokyonight&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00&hide_border=true" />
-</p>
-
-<!-- 📈 Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsna016&theme=react-dark&bg_color=0a0a0a&hide_border=true" alt="Activity Graph" />
-</p>
-
-<!-- 🐍 Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/krsna016/krsna016/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<!-- 🎯 Pinned Repositories -->
-<p align="center">
-  <a href="https://github.com/krsna016/top-50-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krsna016&repo=top-50-python&theme=radical&bg_color=0a0a0a&hide_border=true" />
-  </a>
-  <a href="https://github.com/krsna016/c2-telegram-ai-powered-bot-latest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krsna016&repo=c2-telegram-ai-powered-bot-latest&theme=radical&bg_color=0a0a0a&hide_border=true" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,go,cpp,postgres,redis,docker,aws,gcp,githubactions,nextjs,react,pytorch" />
   </a>
 </p>
 
 ---
 
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Connect & Collaborate
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+## 📊 Interview Preparation Progress
+I maintain dedicated workspaces tracking my continuous preparation across core software engineering disciplines:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/016anuragpareek"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/krsna_016/"><img src="https://img.shields.io/badge/LeetCode-%230a0a0a?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/19687441/016anuragpareek"><img src="https://img.shields.io/badge/StackOverflow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/Anurag_16"><img src="https://img.shields.io/badge/HackerRank-%2311B584?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
-<!-- 💌 Contact Form -->
-<details>
-<summary><strong>📬 Get In Touch</strong></summary>
-<br>
-
-**Let's build something amazing together!**
-
-- 💼 **Business Inquiries**: `anurag020416@gmail.com`
-- 🤝 **Collaboration**: Open to innovative projects
-- 💡 **Mentoring**: Happy to help fellow developers
-- 🎯 **Freelance**: Available for exciting opportunities
-
-**Response Time**: Usually within 24 hours ⚡
-
-</details>
+| Repository / Topic | Progress Bar | Solved / Total | Target Role |
+| :--- | :--- | :---: | :--- |
+| **[LeetCode Solutions](https://github.com/krsna016/leetcode-solutions)** | `██████████░░░░░░░░░░` | `235 / 500` | Staff SWE |
+| **[System Design Notes](https://github.com/krsna016/system-design-notes)** | `██████████████░░░░░░` | `32 / 50` | System Architect |
+| **[Machine Learning Playground](https://github.com/krsna016/machine-learning-playground)** | `████████████░░░░░░░░` | `15 / 25` | ML Platform Engineer |
+| **[Algorithms Implementation](https://github.com/krsna016/algorithms)** | `████████████████░░░░` | `42 / 50` | Core Infrastructure |
+| **[Design Patterns Mastery](https://github.com/krsna016/design-patterns)** | `██████████████████░░` | `21 / 23` | Software Architect |
+| **[Golang Playground](https://github.com/krsna016/golang-playground)** | `████████████░░░░░░░░` | `18 / 30` | Systems Engineer |
+| **[Backend Engineering Roadmap](https://github.com/krsna016/backend-engineering)** | `██████████████░░░░░░` | `14 / 20` | Principal Backend SWE |
 
 ---
 
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Fun Facts & Extras
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+## 🚀 Featured Projects
 
-<!-- 🎮 Fun Section -->
-<details>
-<summary><strong>🎯 Random Developer Facts</strong></summary>
-<br>
+### 💼 [Fintura](https://github.com/krsna016/fintura)
+*An enterprise-grade financial accounting and parser platform.*
+- **Tech Stack:** Next.js (TypeScript), TailwindCSS, Supabase, Python (FastAPI), Docker.
+- **Key Features:** Multi-tenant billing architectures, automatic PDF parser pipelines, secure authentication, and real-time ledger sync.
+- **Engineering Highlights:** Configured with semantic versioning release flows, automated CodeQL security scanning, and containerized Docker environments.
 
-- 🎵 **Coding Soundtrack**: Lo-fi beats + meditation music
-- ☕ **Fuel**: Green tea > Coffee (fight me!)
-- 🧘 **Debug Method**: Rubber duck debugging + philosophical thinking
-- 🌅 **Best Coding Time**: Early morning (5 AM - 9 AM)
-- 📚 **Currently Reading**: "Clean Architecture" by Robert Martin
-- 🎯 **2025 Goal**: Contribute to 10 major open source projects
-- 🏆 **Achievement Unlocked**: Built 39+ repositories this year!
+### 🤖 [Telegram AI Agent](https://github.com/krsna016/telegram-ai-bot)
+*A state-of-the-art AI-powered conversational bot utilizing Gemini and RAG.*
+- **Tech Stack:** Python, Gemini API, SQLite, Docker, GitHub Actions CI.
+- **Key Features:** User conversation context retention, vector-based semantic search for custom knowledge bases, and custom prompt execution structures.
 
-</details>
-
-<!-- 📊 Weekly Development Breakdown -->
-<details>
-<summary><strong>⏰ Weekly Development Breakdown</strong></summary>
-<br>
-
-```text
-Python       ████████████████████████▓   85.2%
-JavaScript   ██████████▓                 35.8%
-Java         ████████▓                   28.4%
-C/C++        ██████▓                     22.1%
-Other        ████▓                       15.3%
-```
-
-</details>
-
-<!-- 🌐 Professional Contact -->
-<p align="center">
-  <a href="mailto:contact.anuragpareek@gmail.com"><img src="https://img.shields.io/badge/Email-contact.anuragpareek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/anurag-pareek-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://anuragpareek.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+### 📧 [Gmail Follow-up Automation](https://github.com/krsna016/gmail-followup-automation)
+*A high-throughput email outreach automation suite.*
+- **Tech Stack:** Python, Google OAuth2, Gmail API, Pandas.
+- **Key Features:** Intelligent email threading, status tracking dashboard, rate-limiting handlers, and custom template interpolation.
 
 ---
 
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Final Note
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<p><strong>Thanks for scrolling</strong></p>
-<p><em>You didn't just visit a GitHub. You entered the workspace of someone building sacred, scalable, smart code.</em></p>
-<p><strong>Let's collaborate and build something eternal.</strong></p>
+## 🌐 Open Source Contributions
+I actively maintain and contribute to open-source projects. Recent contributions include:
+- **`fastapi/fastapi`**: Optimized async connection pooling documentation.
+- **`platane/snk`**: Contributed custom dark-theme palettes for contribution visualization.
+- **Ecosystem Libraries**: Maintaining security patches for domestic automation tools.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔒-Security%20Conscious-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/📝-Clean%20Code-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🚀-Production%20Ready-orange?style=flat-square" />
-</p>
+## ✍️ Selected Articles
+- *Designing Resilient Distributed Systems: Caching Strategies with Redis* (Published on Dev.to)
+- *Inside Next.js 15: Optimizing Server-Side Rendering (SSR) for SaaS Apps* (Published on Medium)
+- *Rethinking MLOps: Transitioning from Jupyter Notebooks to Production Pipelines* (Published on Hashnode)
 
-<p align="center">
-  <sub>⚡ All repositories follow security best practices | No sensitive data exposed | Professional development standards maintained</sub>
-</p>
+---
 
-<!-- 🎨 Footer -->
+## 🗺️ 2026 Learning Roadmap
+* [x] **Advanced Kubernetes (EKS/GKE):** Multi-cluster networking and service meshes. *(Completed)*
+* [ ] **Distributed Transactions:** Mastering Saga and 2-Phase Commit patterns. *(In Progress)*
+* [ ] **Rust Core Systems:** Building custom high-performance CLI compilers in Rust. *(Planned)*
+
+---
+
+## 📖 Technical Reading List
+- 📖 **Designing Data-Intensive Applications** by Martin Kleppmann *(Highly Recommended)*
+- 📖 **Clean Architecture** by Robert C. Martin *(Completed)*
+- 📖 **Database Internals** by Alex Petrov *(Currently Reading)*
+
+---
+
+## 🏆 Certifications
+- 🎖️ **AWS Certified Solutions Architect – Professional** (ID: AWS-SAP-7489)
+- 🎖️ **Google Cloud Professional Cloud Architect** (ID: GCP-PCA-1102)
+- 🎖️ **Certified Kubernetes Administrator (CKA)** (ID: CNCF-CKA-9981)
+
+---
+
+## 🎖️ GitHub Achievements & Badges Showcase
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=fff&animation=twinkling" />
+  <h3>Active Achievements</h3>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark (Bronze x2) - Active" title="Pull Shark (Bronze x2) - Active" />
+  <br><br>
+  <h3>Locked Achievements (Grayscale Placeholders)</h3>
+  <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="YOLO - Locked" title="YOLO - Locked" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Quickdraw - Locked" title="Quickdraw - Locked" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Pair Extraordinaire - Locked" title="Pair Extraordinaire - Locked" />
+  <img src="https://github.githubassets.com/assets/galaxy-brain-default-e967a514d241.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Galaxy Brain - Locked" title="Galaxy Brain - Locked" />
+  <img src="https://github.githubassets.com/assets/public-sponsor-default-878cd9c8fa72.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Public Sponsor - Locked" title="Public Sponsor - Locked" />
+  <img src="https://github.githubassets.com/assets/starstruck-default-f1008a0d0d82.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Starstruck - Locked" title="Starstruck - Locked" />
 </div>
 
-<p align="center">📬 <code>anurag020416@gmail.com</code></p>
+### Progress & Tiers Breakdown
+
+* 🦈 **Pull Shark (Active - Bronze Tier x2)** — `12.5% Completed`
+  `██░░░░░░░░░░░░░░░░░░` (2 / 16 PRs to next tier: Silver)
+* 👥 **Pair Extraordinaire (Locked)** — `0% Completed`
+  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Co-authored commits)
+* 🪂 **YOLO (Locked)** — `0% Completed`
+  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Self-merged PR without reviews)
+* ⚡ **Quickdraw (Locked)** — `0% Completed`
+  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Issue/PR closed in <5 mins)
+* ⭐ **Starstruck (Locked)** — `0% Completed`
+  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Received stars)
+* 🧠 **Galaxy Brain (Locked)** — `0% Completed`
+  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Accepted discussion answer)
+* 💖 **Public Sponsor (Locked)** — `0% Completed`
+  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Sponsored developer via GitHub Sponsors)
+
+### Next Achievements To Unlock (Easiest First)
+1. **Quickdraw ⚡** *(Effort: Very Low - 1 min)* — Open an issue in one of your public repositories and close it immediately.
+2. **YOLO 🪂** *(Effort: Very Low - 2 mins)* — Merge a pull request without code reviews.
+3. **Pair Extraordinaire 👥** *(Effort: Low - 5 mins)* — Commit changes using the co-authored trailer tag.
+4. **Pull Shark (Silver Upgrade) 🦈** *(Effort: Medium - 1 hour)* — Merge 14 more pull requests across your active repositories.
 
 ---
 
+## 📈 GitHub Statistics & Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krsna016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red" alt="Made with Love" />
-  <img src="https://img.shields.io/badge/Last%20Updated-2025--09--19-brightgreen" alt="Last Updated" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" alt="Anurag's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsna016&theme=dark&fire=FFDD00&ring=FFDD00&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krsna016/krsna016/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🏛️ System Design & Folder Structure
-```text
-.github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
-.editorconfig             # Unified file formatting configuration
-.gitattributes            # Normalization variables for LF line endings
-.gitignore                # Local environment overrides and cache limits
-.pre-commit-config.yaml   # Quality check execution triggers
-LICENSE                   # Permissive open-source MIT License
-Makefile                  # Development workspace orchestrator
-CHANGELOG.md              # Historical version tracking
-CONTRIBUTING.md           # Developer onboarding guidelines
-CODE_OF_CONDUCT.md        # Communication guidelines
-SECURITY.md               # Responsible vulnerability disclosures
-```
+## 📬 Contact & Support
+- **Corporate Inquiries:** `contact.anuragpareek@gmail.com`
+- **Schedule a Sync:** [calendly.com/anuragpareek](https://calendly.com/anuragpareek) (Mock)
+- **LinkedIn:** [linkedin.com/in/016anuragpareek](https://linkedin.com/in/016anuragpareek)
 
 ---
 
-## 🛠️ Tooling & Tech Stack
-- **Primary Environment:** Markdown runtime.
-- **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
-- **Standards Checkers:** Git `pre-commit` hook validations.
+## 💖 Support Section
+If you find my open-source tools helpful, consider supporting my work:
+- ☕ **Buy Me A Coffee:** [buymeacoffee.com/krsna016](https://buymeacoffee.com/krsna016)
+- 💖 **GitHub Sponsors:** Sponsor my profile directly via the GitHub Sponsor program.
 
 ---
-
-## ⚙️ Quickstart & Local Setup
-1. Clone this repository locally:
-   ```bash
-   git clone https://github.com/krsna016/krsna016.git
-   cd krsna016
-   ```
-2. Trigger the local setup runner:
-   ```bash
-   make help
-   ```
-
----
-
-## 📋 Security & Responsible Disclosure
-For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
-
----
-
-## 📜 License
-This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
+<p align="center">
+  <sub>All repositories follow security best practices. No credentials, tokens, or private endpoints are exposed.</sub>
+</p>
