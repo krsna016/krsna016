@@ -116,45 +116,74 @@ I maintain dedicated repositories tracking my continuous study and implementatio
 ## 🎖️ GitHub Achievements & Badges Showcase
 
 <div align="center">
-  <h3>Active Achievements</h3>
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark (Bronze x2) - Active" title="Pull Shark (Bronze x2) - Active" />
-  <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" width="64" alt="YOLO - Active" title="YOLO - Active" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" width="64" alt="Quickdraw - Active" title="Quickdraw - Active" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" width="64" alt="Pair Extraordinaire - Active" title="Pair Extraordinaire - Active" />
-  <img src="https://img.shields.io/badge/Open%20Sourcerer-Active-blue?style=flat-square" height="64" alt="Open Sourcerer - Active" title="Open Sourcerer - Active" />
-  <img src="https://img.shields.io/badge/Heart%20On%20Your%20Sleeve-Active-red?style=flat-square" height="64" alt="Heart On Your Sleeve - Active" title="Heart On Your Sleeve - Active" />
-  <br><br>
-  <h3>Locked Achievements (Grayscale Placeholders)</h3>
-  <img src="https://github.githubassets.com/assets/galaxy-brain-default-e967a514d241.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Galaxy Brain - Locked" title="Galaxy Brain - Locked" />
-  <img src="https://github.githubassets.com/assets/public-sponsor-default-878cd9c8fa72.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Public Sponsor - Locked" title="Public Sponsor - Locked" />
-  <img src="https://github.githubassets.com/assets/starstruck-default-f1008a0d0d82.png" style="filter: grayscale(100%); opacity: 0.35;" width="64" alt="Starstruck - Locked" title="Starstruck - Locked" />
+  <table border="0" cellpadding="15">
+    <tr>
+      <td align="center" valign="top" width="240">
+        <br />
+        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" height="90" alt="Pull Shark Badge" />
+        <br /><br />
+        <strong>🏆 Pull Shark (Bronze x2)</strong>
+        <br />
+        <font size="2" color="#f9d042"><b>Active • Level Up in Progress</b></font>
+        <br />
+        <code>██░░░░░░░░░░░░░░░░░░</code>
+        <br />
+        <font size="2" color="#888888">24 / 128 PRs to Silver Tier</font>
+      </td>
+      <td align="center" valign="top" width="240">
+        <br />
+        <img src="https://github.githubassets.com/assets/quickdraw-default-39863a6113ca.png" width="90" height="90" alt="Quickdraw Badge" />
+        <br /><br />
+        <strong>⚡ Quickdraw</strong>
+        <br />
+        <font size="2" color="#46c183"><b>Active • Fully Mastered</b></font>
+        <br />
+        <code>████████████████████</code>
+        <br />
+        <font size="2" color="#888888">PR closed in under 5 minutes</font>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### Progress & Tiers Breakdown
-
-* 🦈 **Pull Shark (Active - Bronze Tier x2)** — `12.5% Completed`
-  `██░░░░░░░░░░░░░░░░░░` (24 / 128 PRs to next tier: Silver)
-* 👥 **Pair Extraordinaire (Active)** — `100% Completed`
-  `████████████████████` (1 / 1 Co-authored commits)
-* 🪂 **YOLO (Active)** — `100% Completed`
-  `████████████████████` (1 / 1 Self-merged PR without reviews)
-* ⚡ **Quickdraw (Active)** — `100% Completed`
-  `████████████████████` (1 / 1 Issue/PR closed in <5 mins)
-* 🐙 **Open Sourcerer (Active)** — `100% Completed`
-  `████████████████████` (Pull requests merged across multiple public repos)
-* 💖 **Heart On Your Sleeve (Active)** — `100% Completed`
-  `████████████████████` (Reacted with a heart emoji to an active issue/PR)
-* ⭐ **Starstruck (Locked)** — `0% Completed`
-  `░░░░░░░░░░░░░░░░░░░░` (0 / 16 Received stars)
-* 🧠 **Galaxy Brain (Locked)** — `0% Completed`
-  `░░░░░░░░░░░░░░░░░░░░` (0 / 2 Accepted discussion answers)
-* 💖 **Public Sponsor (Locked)** — `0% Completed`
-  `░░░░░░░░░░░░░░░░░░░░` (0 / 1 Sponsored developer via GitHub Sponsors)
-
-### Next Achievements To Unlock (Easiest First)
-1. **Pull Shark (Silver Upgrade) 🦈** *(Effort: Medium)* — Continue merging pull requests as you build data analysis pipelines.
-2. **Galaxy Brain 🧠** *(Effort: Medium)* — Enable discussions in a data repository, have a peer post an answer, and select it as accepted.
-3. **Starstruck ⭐** *(Effort: High)* — Share your repositories with colleagues or tech forums to earn project stars.
+<details>
+  <summary><b>🎯 Show Achievement Roadmap & Locked Badges</b></summary>
+  <br />
+  <div align="center">
+    <table border="0" cellpadding="10">
+      <tr>
+        <td align="center" valign="top" width="160">
+          <img src="https://github.githubassets.com/assets/yolo-default-58df18ed1060.png" width="60" height="60" alt="YOLO" />
+          <br /><br />
+          <strong>YOLO</strong>
+          <br />
+          <font size="2" color="#888888">Self-merge a PR without review</font>
+        </td>
+        <td align="center" valign="top" width="160">
+          <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-d1193d50df53.png" width="60" height="60" alt="Pair Extraordinaire" />
+          <br /><br />
+          <strong>Pair Extraordinaire</strong>
+          <br />
+          <font size="2" color="#888888">Co-author a commit with a peer</font>
+        </td>
+        <td align="center" valign="top" width="160">
+          <img src="https://github.githubassets.com/assets/galaxy-brain-default-e967a514d241.png" width="60" height="60" alt="Galaxy Brain" />
+          <br /><br />
+          <strong>Galaxy Brain</strong>
+          <br />
+          <font size="2" color="#888888">2 accepted discussion answers</font>
+        </td>
+        <td align="center" valign="top" width="160">
+          <img src="https://github.githubassets.com/assets/starstruck-default-f1008a0d0d82.png" width="60" height="60" alt="Starstruck" />
+          <br /><br />
+          <strong>Starstruck</strong>
+          <br />
+          <font size="2" color="#888888">Receive 16 stars on repositories</font>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 ---
 
