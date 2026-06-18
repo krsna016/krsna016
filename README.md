@@ -162,7 +162,7 @@ I maintain dedicated repositories tracking my continuous study and implementatio
 
 <p align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" alt="Anurag's GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&layout=compact&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsna016&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
