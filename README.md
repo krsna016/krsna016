@@ -138,6 +138,46 @@ I maintain active repositories tracking my implementations of data analytics, vi
         <font size="2" color="#888888">PR closed in under 5 minutes</font>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="240">
+        <br />
+        <img src="assets/badges/Yolo.png" width="90" height="90" alt="YOLO Badge" />
+        <br /><br />
+        <strong>🪂 YOLO</strong>
+        <br />
+        <font size="2" color="#46c183"><b>Active • Fully Mastered</b></font>
+        <br />
+        <code>████████████████████</code>
+        <br />
+        <font size="2" color="#888888">Merged without code review</font>
+      </td>
+      <td align="center" valign="top" width="240">
+        <br />
+        <img src="assets/badges/PairExtraordinaire.png" width="90" height="90" alt="Pair Extraordinaire Badge" />
+        <br /><br />
+        <strong>👯 Pair Extraordinaire</strong>
+        <br />
+        <font size="2" color="#f9d042"><b>Active • Bronze Tier</b></font>
+        <br />
+        <code>██████████░░░░░░░░░░</code>
+        <br />
+        <font size="2" color="#888888">Co-authored commits</font>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="240">
+        <br />
+        <img src="assets/badges/GalaxyBrain.png" width="90" height="90" alt="Galaxy Brain Badge" />
+        <br /><br />
+        <strong>🧠 Galaxy Brain</strong>
+        <br />
+        <font size="2" color="#f9d042"><b>Active • Bronze Tier</b></font>
+        <br />
+        <code>██████████░░░░░░░░░░</code>
+        <br />
+        <font size="2" color="#888888">2 accepted discussion answers</font>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -147,27 +187,6 @@ I maintain active repositories tracking my implementations of data analytics, vi
   <div align="center">
     <table border="0" cellpadding="10">
       <tr>
-        <td align="center" valign="top" width="160">
-          <img src="assets/badges/Yolo.png" width="60" height="60" alt="YOLO" />
-          <br /><br />
-          <strong>YOLO</strong>
-          <br />
-          <font size="2" color="#888888">Self-merge a PR without review</font>
-        </td>
-        <td align="center" valign="top" width="160">
-          <img src="assets/badges/PairExtraordinaire.png" width="60" height="60" alt="Pair Extraordinaire" />
-          <br /><br />
-          <strong>Pair Extraordinaire</strong>
-          <br />
-          <font size="2" color="#888888">Co-author a commit with a peer</font>
-        </td>
-        <td align="center" valign="top" width="160">
-          <img src="assets/badges/GalaxyBrain.png" width="60" height="60" alt="Galaxy Brain" />
-          <br /><br />
-          <strong>Galaxy Brain</strong>
-          <br />
-          <font size="2" color="#888888">2 accepted discussion answers</font>
-        </td>
         <td align="center" valign="top" width="160">
           <img src="assets/badges/Starstruck.png" width="60" height="60" alt="Starstruck" />
           <br /><br />
