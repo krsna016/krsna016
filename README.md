@@ -17,7 +17,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%23f9d042" width="26" align="center"> About Me
 
 I am an **Engineer transitioning toward high-quality Data Analytics and Data Science work**. I blend a strong engineering foundation (clean code, systems architecture, optimization) with an analytical mindset to process messy datasets, design robust SQL database views, build end-to-end Python data pipelines, and design interactive dashboards. I am passionate about uncovering insights, discovering statistical patterns, and translating complex data into strategic business recommendations.
 
@@ -26,17 +26,17 @@ I am an **Engineer transitioning toward high-quality Data Analytics and Data Sci
 
 ---
 
-## 🔥 Current Focus
+## <img src="https://api.iconify.design/lucide/target.svg?color=%23f9d042" width="26" align="center"> Current Focus
 
-- 📈 **Advanced SQL:** Mastering analytical window functions, CTEs, self-joins, and query execution optimizations.
-- 📊 **Hypothesis Testing:** Strengthening inferential statistics, probability modeling, and A/B testing methodologies.
-- 🎨 **Business Dashboards:** Building interactive storyboards and visual reports using Power BI and Tableau.
-- 🧪 **Machine Learning:** Exploring supervised algorithms, feature engineering, and predictive evaluation metrics.
-- 💼 **Analytical Case Studies:** Working through customer retention, churn modeling, and marketing spend attribution scenarios.
+- <img src="https://api.iconify.design/lucide/database.svg?color=%23f9d042" width="18" align="center"> **Advanced SQL:** Mastering analytical window functions, CTEs, self-joins, and query execution optimizations.
+- <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23f9d042" width="18" align="center"> **Hypothesis Testing:** Strengthening inferential statistics, probability modeling, and A/B testing methodologies.
+- <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23f9d042" width="18" align="center"> **Business Dashboards:** Building interactive storyboards and visual reports using Power BI and Tableau.
+- <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23f9d042" width="18" align="center"> **Machine Learning:** Exploring supervised algorithms, feature engineering, and predictive evaluation metrics.
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23f9d042" width="18" align="center"> **Analytical Case Studies:** Working through customer retention, churn modeling, and marketing spend attribution scenarios.
 
 ---
 
-## 🛠️ Tech Stack & Analytical Toolchain
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%23f9d042" width="26" align="center"> Tech Stack & Analytical Toolchain
 
 ```text
 Languages:    Python, SQL, Excel
@@ -53,14 +53,14 @@ Tools/Infra:  Jupyter Notebook, Git, GitHub Actions, PostgreSQL, BigQuery, Docke
 
 ---
 
-## 🏆 Kaggle Progress
+## <img src="https://api.iconify.design/lucide/award.svg?color=%23f9d042" width="26" align="center"> Kaggle Progress
 I actively participate in structured data competitions and notebook development to refine my predictive modeling and feature engineering skill sets:
 - **Focus Areas:** Supervised predictive modeling, outlier treatment, feature scaling, cross-validation tuning.
 - **Tools Used:** Jupyter Notebooks, Scikit-Learn, XGBoost, Pandas.
 
 ---
 
-## 📊 Analytics Journey & Portfolios
+## <img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%23f9d042" width="26" align="center"> Analytics Journey & Portfolios
 
 I maintain active repositories tracking my implementations of data analytics, visualization, and platform development:
 
@@ -74,7 +74,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
 
 ---
 
-## 🎯 Goals for 2026
+## <img src="https://api.iconify.design/lucide/flag.svg?color=%23f9d042" width="26" align="center"> Goals for 2026
 
 - [ ] **Data Analytics Readiness:** Complete a portfolio of production-ready analytical pipelines.
 - [ ] **SQL Mastery:** Solve 100+ complex query tasks on SQL practice platforms.
@@ -84,31 +84,31 @@ I maintain active repositories tracking my implementations of data analytics, vi
 
 ---
 
-## 📖 Recommended Reading List
+## <img src="https://api.iconify.design/lucide/book-open.svg?color=%23f9d042" width="26" align="center"> Recommended Reading List
 
-- 📖 **Storytelling with Data** by Cole Nussbaumer Knaflic *(Visual communication & design)*
-- 📖 **Naked Statistics** by Charles Wheelan *(Intuitive explanation of statistical inference)*
-- 📖 **Designing Data-Intensive Applications** by Martin Kleppmann *(Data structures, storage, query execution)*
-
----
-
-## 📝 Selected Articles
-
-- 📝 *Uncovering Business Growth: Cohort Analysis and User Retention Dynamics* (Published on Dev.to)
-- 📝 *SQL Query Optimization: Fine-Tuning Queries for Business Intelligence* (Published on Medium)
-- 📝 *Outlier Detection & Imputation: Data Cleaning Recipes in Python* (Published on Hashnode)
+- <img src="https://api.iconify.design/lucide/book.svg?color=%23f9d042" width="18" align="center"> **Storytelling with Data** by Cole Nussbaumer Knaflic *(Visual communication & design)*
+- <img src="https://api.iconify.design/lucide/book.svg?color=%23f9d042" width="18" align="center"> **Naked Statistics** by Charles Wheelan *(Intuitive explanation of statistical inference)*
+- <img src="https://api.iconify.design/lucide/book.svg?color=%23f9d042" width="18" align="center"> **Designing Data-Intensive Applications** by Martin Kleppmann *(Data structures, storage, query execution)*
 
 ---
 
-## 🏆 Certifications
+## <img src="https://api.iconify.design/lucide/file-text.svg?color=%23f9d042" width="26" align="center"> Selected Articles
 
-- 🎖️ **AWS Certified Solutions Architect – Professional** (ID: AWS-SAP-7489)
-- 🎖️ **Google Cloud Professional Cloud Architect** (ID: GCP-PCA-1102)
-- 🎖️ **Certified Kubernetes Administrator (CKA)** (ID: CNCF-CKA-9981)
+- <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23f9d042" width="18" align="center"> *Uncovering Business Growth: Cohort Analysis and User Retention Dynamics* (Published on Dev.to)
+- <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23f9d042" width="18" align="center"> *SQL Query Optimization: Fine-Tuning Queries for Business Intelligence* (Published on Medium)
+- <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23f9d042" width="18" align="center"> *Outlier Detection & Imputation: Data Cleaning Recipes in Python* (Published on Hashnode)
 
 ---
 
-## 🎖️ GitHub Achievements & Badges Showcase
+## <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23f9d042" width="26" align="center"> Certifications
+
+- <img src="https://api.iconify.design/lucide/badge-check.svg?color=%23f9d042" width="18" align="center"> **AWS Certified Solutions Architect – Professional** (ID: AWS-SAP-7489)
+- <img src="https://api.iconify.design/lucide/badge-check.svg?color=%23f9d042" width="18" align="center"> **Google Cloud Professional Cloud Architect** (ID: GCP-PCA-1102)
+- <img src="https://api.iconify.design/lucide/badge-check.svg?color=%23f9d042" width="18" align="center"> **Certified Kubernetes Administrator (CKA)** (ID: CNCF-CKA-9981)
+
+---
+
+## <img src="https://api.iconify.design/lucide/medal.svg?color=%23f9d042" width="26" align="center"> GitHub Achievements & Badges Showcase
 
 <div align="center">
   <table border="0" cellpadding="15">
@@ -182,7 +182,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
 
 ---
 
-## 📈 GitHub Statistics & Analytics
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23f9d042" width="26" align="center"> GitHub Statistics & Analytics
 
 <p align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=krsna016&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" alt="Anurag's GitHub Stats" />
@@ -200,16 +200,16 @@ I maintain active repositories tracking my implementations of data analytics, vi
 
 ---
 
-## 📬 Contact & Support
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%23f9d042" width="26" align="center"> Contact & Support
 - **Corporate Inquiries:** `contact.anuragpareek@gmail.com`
 - **LinkedIn:** [linkedin.com/in/016anuragpareek](https://linkedin.com/in/016anuragpareek)
 
 ---
 
-## 💖 Support Section
+## <img src="https://api.iconify.design/lucide/heart.svg?color=%23f9d042" width="26" align="center"> Support Section
 If you find my analytical toolkits or case studies helpful, consider supporting my work:
-- ☕ **Buy Me A Coffee:** [buymeacoffee.com/krsna016](https://buymeacoffee.com/krsna016)
-- 💖 **GitHub Sponsors:** Sponsor my profile directly via the GitHub Sponsor program.
+- <img src="https://api.iconify.design/lucide/coffee.svg?color=%23f9d042" width="18" align="center"> **Buy Me A Coffee:** [buymeacoffee.com/krsna016](https://buymeacoffee.com/krsna016)
+- <img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%23f9d042" width="18" align="center"> **GitHub Sponsors:** Sponsor my profile directly via the GitHub Sponsor program.
 
 ---
 <p align="center">
