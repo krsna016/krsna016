@@ -92,11 +92,10 @@ I maintain active repositories tracking my implementations of data analytics, vi
 
 ---
 
-## <img src="https://api.iconify.design/lucide/file-text.svg?color=%23f9d042" width="26" align="center"> Selected Articles
+## <img src="https://api.iconify.design/lucide/file-text.svg?color=%23f9d042" width="26" align="center"> Latest Articles
 
-- <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23f9d042" width="18" align="center"> *Uncovering Business Growth: Cohort Analysis and User Retention Dynamics* (Published on Dev.to)
-- <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23f9d042" width="18" align="center"> *SQL Query Optimization: Fine-Tuning Queries for Business Intelligence* (Published on Medium)
-- <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23f9d042" width="18" align="center"> *Outlier Detection & Imputation: Data Cleaning Recipes in Python* (Published on Hashnode)
+<!-- blog starts -->
+<!-- blog ends -->
 
 ---
 
