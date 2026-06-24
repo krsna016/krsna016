@@ -116,7 +116,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
         <br />
         <img src="assets/badges/PullShark.png" width="90" height="90" alt="Pull Shark Badge" />
         <br /><br />
-        <strong>🏆 Pull Shark (Bronze x2)</strong>
+        <strong> Pull Shark (Bronze x2)</strong>
         <br />
         <font size="2" color="#f9d042"><b>Active • Level Up in Progress</b></font>
         <br />
@@ -128,7 +128,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
         <br />
         <img src="assets/badges/Quickdraw.png" width="90" height="90" alt="Quickdraw Badge" />
         <br /><br />
-        <strong>⚡ Quickdraw</strong>
+        <strong> Quickdraw</strong>
         <br />
         <font size="2" color="#46c183"><b>Active • Fully Mastered</b></font>
         <br />
@@ -142,7 +142,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
         <br />
         <img src="assets/badges/Yolo.png" width="90" height="90" alt="YOLO Badge" />
         <br /><br />
-        <strong>🪂 YOLO</strong>
+        <strong> YOLO</strong>
         <br />
         <font size="2" color="#46c183"><b>Active • Fully Mastered</b></font>
         <br />
@@ -154,7 +154,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
         <br />
         <img src="assets/badges/PairExtraordinaire.png" width="90" height="90" alt="Pair Extraordinaire Badge" />
         <br /><br />
-        <strong>👯 Pair Extraordinaire</strong>
+        <strong> Pair Extraordinaire</strong>
         <br />
         <font size="2" color="#f9d042"><b>Active • Bronze Tier</b></font>
         <br />
@@ -168,7 +168,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
         <br />
         <img src="assets/badges/GalaxyBrain.png" width="90" height="90" alt="Galaxy Brain Badge" />
         <br /><br />
-        <strong>🧠 Galaxy Brain</strong>
+        <strong> Galaxy Brain</strong>
         <br />
         <font size="2" color="#f9d042"><b>Active • Bronze Tier</b></font>
         <br />
@@ -181,7 +181,7 @@ I maintain active repositories tracking my implementations of data analytics, vi
 </div>
 
 <details>
-  <summary><b>🎯 Show Achievement Roadmap & Locked Badges</b></summary>
+  <summary><b> Show Achievement Roadmap & Locked Badges</b></summary>
   <br />
   <div align="center">
     <table border="0" cellpadding="10">
