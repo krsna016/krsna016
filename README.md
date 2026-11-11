@@ -45,6 +45,7 @@ I am a **Principal Systems Engineer, Security Researcher, and Polymath Scholar**
 | **[Notes Widget for Markdown](https://github.com/krsna016/notes-widget-for-markdown)** | Android home screen widget rendering live Obsidian notes directly from local storage with real-time markdown parsing. | Kotlin • Android AppWidget | Public (Fork) |
 | **[Gander](https://github.com/krsna016/gander)** | Lightweight Android network reconnaissance, packet analysis, and HTTP inspection framework. | Kotlin • Android Jetpack | Public (Fork) |
 | **[Realme Buds T310 Manager](https://github.com/krsna016/realme-buds-t310-mac)** | Native macOS Bluetooth Low Energy (BLE) control panel for audio peripherals, ANC toggles, and low-latency gaming mode. | Swift • CoreBluetooth • AppKit | Private |
+| **[Stremio Config & Restorer](https://github.com/krsna016/stremio-macos-config)** | Automated backup and one-command restoration suite for Stremio macOS state, active profiles, add-ons, and VideoToolbox streaming server. | Shell • SQLite • WebKit | Private |
 
 ---
 
